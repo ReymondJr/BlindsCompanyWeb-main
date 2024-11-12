@@ -1,0 +1,596 @@
+[
+    {
+        "title": "PRODUCTOS DE INTERIOR",
+        "shortTitle": "Interior",
+        "hash": "interior",
+        "featuredImage": {
+            "src": "../../images/products/showcase/interior.jpg",
+            "alt": ""
+        },
+        "products": [
+            {
+                "title": "CORTINAS ENROLLABLES",
+                "slug": "cortinas-enrollables",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "Cortinas Enrollables",
+                "subtitle": "",
+                "description": "Con sus infinitas posibilidades en cuanto a estilo y funcionalidad, las cortinas enrollables son el producto de sombreado más popular del mundo. Las cortinas enrollables no solo son perfectas en la sala de estar, sino también para su dormitorio, baño, cocina, etc. Este sistema se puede fácilmente personalizar, para encontrar la mejor opción para todo tipo de ventana y gusto.",
+                "extraCopy": [
+                    {
+                        "title": "Cortinas Traslúcidas",
+                        "text": "Crea un acogedor oasis de luz y comodidad con filtro de luz. Reduzca el deslumbramiento y mantenga la privacidad con una variedad de estilos. Ideales para salas y espacios donde quieres que entre la claridad."
+                    },
+                    {
+                        "title": "Cortinas Blackout",
+                        "text": "Ofrecen oscuridad en cualquier momento del día, son ideales para sala multimedia y estudios, dormitorios o cualquier lugar donde se tomen siestas."
+                    }
+                ],
+                "featuredImage": {
+                    "src": "../../images/products/roller/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/roller/Roller1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/roller/Roller2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/roller/Roller3.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/roller/4-Enrollables.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/roller/5-Galeria.jpg",
+                        "alt": ""
+                    }
+                ],
+                "productCatalogs": [
+                    {
+                        "img": {
+                            "src": "../../images/productCatalogs/Enrollables/BlackoutCatalogoCover-Copy.jpg",
+                            "alt": ""
+                        },
+                        "name": "Black-out",
+                        "url": "/pdfs/BlackOut.pdf"
+                    },
+                    {
+                        "img": {
+                            "src": "../../images/productCatalogs/Enrollables/TraslucidasCatalogoCover-Copy.jpg",
+                            "alt": ""
+                        },
+                        "name": "Traslúcidas",
+                        "url": "/pdfs/Traslucidas.pdf"
+                    },
+                    {
+                        "img": {
+                            "src": "../../images/productCatalogs/Enrollables/ScreenCatalogoCover-Copy.jpg",
+                            "alt": ""
+                        },
+                        "name": "Screen",
+                        "url": "/pdfs/Screen.pdf"
+                    }
+                ],
+                "ctas": []
+            },
+            {
+                "title": "CORTINAS ZEBRA",
+                "slug": "cortinas-zebra",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Las cortinas zebra han crecido rápidamente entre los entusiastas de la decoración para mejorar la apariencia de las ventanas. hecho de una sola pieza de tela con franjas alternas de material translúcido y que filtra la luz u oscurece la habitación. Los tonos de sus franjas ofrecen una apariencia moderna con un control de luz excepcional.",
+                "extraCopy": [
+                    {
+                        "title": "CORTINA ZEBRAS BLACKOUT",
+                        "text": "Esta tela de cortinas zebra tiene un mejor control de La Luz por sus bandas Black out. Las bandas cerradas son opacas con el sistema blackout, mucho más anchas que las transparentes y es ligeramente brillante lo que puede producir líneas interesantes!"
+                    },
+                    {
+                        "title": "CORTINA ZEBRAS TRANSLÚCIDAS",
+                        "text": "Estas telas de cortinas zebra se ven elegantes y limpias, para compensar la inferioridad en término de funcionalidad con respecto a la Black out, tenemos telas de todo tipo de diseño y colores para las traslúcidas, teniendo una versatilidad en cuanto a lo que busques, elegante, casual, moderno etc."
+                    }
+                ],
+                "featuredImage": {
+                    "src": "../../images/products/zebra/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/zebra/DoubleRoller1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/zebra/DoubleRoller2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/zebra/DoubleRoller3.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/zebra/4-Galeria.jpeg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/zebra/5-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/zebra/6-Galeria.jpg",
+                        "alt": ""
+                    }
+                ],
+                "productCatalogs": [
+                    {
+                        "img": {
+                            "src": "../../images/productCatalogs/Zebra/ZebraCatalogoCover.png",
+                            "alt": ""
+                        },
+                        "name": "Double Roller",
+                        "url": "/pdfs/DoubleRoller.pdf"
+                    }
+                ],
+                "ctas": []
+            },
+            {
+                "title": "CORTINAS VISILLO",
+                "slug": "cortinas-de-visillo-modernas",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Los visillos hacen que sea fácil personalizar tu espacio y agregar un poco de calidez y estilo. La diversidad de acabados textiles transforman cualquier interior en el estilo que buscas también puedes completar la apariencia única con cortinas rollers complementarias, o incluso telas adicionales para las almohadas. Mezcla y combina esquemas y patrones de colores. ¡Vuélvete loco y crea el mejor interior!",
+                "featuredImage": {
+                    "src": "../../images/products/visillo/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [],
+                "extraCopy": [],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "CORTINAS ROMANA",
+                "slug": "roman-shade",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Dale elegancia y calidez a tu interior con las persianas romanas. Las persianas romanas combinan la apariencia de una cortina con la flexibilidad y la conveniencia de una persiana enrollable. Su rico toque clásico crea un ambiente cálido y una agradable acústica.",
+                "featuredImage": {
+                    "src": "../../images/products/romana/banner.webp",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/romana/romana1.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/romana/romana2.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/romana/romana3.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/romana/romana4.jpg",
+                        "alt": ""
+                    }
+                ],
+                "extraCopy": [],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "CORTINAS VENECIANAS",
+                "slug": "cortinas-venecianas",
+                "canShowDefaultExtraCopy": false,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Mucha gente instala las cortinas venecianas por su habilidad de difundir y bloquear La Luz en diferente grados como solo la veneciana puede. Su gran variedad de materiales y colores, las lamas duraderas entre otras características son las que hacen las venecianas tan populares.\nLa luz y privacidad se puede regular mediante una cuerda que gira las lamas hasta 90 grados para elegir la luz deseada. Las lamas de la cortina veneciana se apilan al subir y vuelven a la posición original sin perder su forma por la alta resistencia y propiedades no deformables.",
+                "featuredImage": {
+                    "src": "../../images/products/veneciana/banner.webp",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/veneciana/Veneciana1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/veneciana/Veneciana2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/veneciana/Veneciana3.png",
+                        "alt": ""
+                    }
+                ],
+                "extraCopy": [],
+                "productCatalogs": [
+                    {
+                        "img": {
+                            "src": "../../images/productCatalogs/Veneciana/VenetianCatalogoCover.png",
+                            "alt": ""
+                        },
+                        "name": "Traslúcidas",
+                        "url": "/pdfs/Traslucidas.pdf"
+                    }
+                ],
+                "ctas": []
+            },
+            {
+                "title": "CORTINAS VERTICALES",
+                "slug": "cortinas-verticales",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Las cortinas verticales permiten controlar la luz y crear una apariencia limpia en tu interior. Con las infinitas posibilidades decorativas y su apariencia alta, las cortinas verticales superan el nivel funcional que es bien conocido y aportan elegancia al interior",
+                "featuredImage": {
+                    "src": "../../images/products/vertical/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/vertical/Vertical5.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/vertical/vertical1.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/vertical/vertical2.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/vertical/vertical3.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/vertical/vertical4.jpg",
+                        "alt": ""
+                    }
+                ],
+                "extraCopy": [],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "PANEL DESLIZANTE",
+                "slug": "panel-deslizante",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Con su gran aspecto y su compostura limpia, las persianas de panel son perfectas para ventanas grandes o puertas corredizas en el hogar. Crean un look moderno y contemporáneo. Con nuestra oferta completa de telas, sistemas y automatización, puede crear la solución ciega de panel perfecta para cada situación.",
+                "featuredImage": {
+                    "src": "../../images/products/panel-deslizante/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/panel-deslizante/Panel19.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/Panel9.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/old.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/panel.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/panel10.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/panel3.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/panel4.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/panel-deslizante/panel6.jpg",
+                        "alt": ""
+                    }
+                ],
+                "extraCopy": [],
+                "ctas": [],
+                "productCatalogs": []
+            }
+        ]
+    },
+    {
+        "title": "PRODUCTOS DE EXTERIOR",
+        "shortTitle": "Exterior",
+        "hash": "exterior",
+        "featuredImage": {
+            "src": "../../images/products/showcase/exterior.jpg",
+            "alt": ""
+        },
+        "products": [
+            {
+                "title": "CORTINAS PERMA",
+                "slug": "cortinas-perma",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Las cortinas permas tienen un propósito similar a las cortinas de interior pero con un enfoque un poco diferente. La diferencia es que las permas bloquean los rayos solares antes que llegue a las ventanas. La adición de cortinas no solo agrega un hermoso elemento de diseño, sino que también hacen los patios, terrazas y balcones más habitables y acogedores mientras dispersa el calor y controla los insectos.",
+                "extraCopy": [
+                    {
+                        "title": "Funcionamiento",
+                        "text": "Caduta – Cortinas perma con gancho: Las cortinas perma de gancho se deben enganchan al suelo una vez bajadas completamente para que la brisa no la mueva y pueda golpear algo o alguien. No se pueden dejar semiabiertas ya que la brisa la mueve. Sin embargo, una vez estás enganchada son muy resistentes."
+                    }
+                ],
+                "featuredImage": {
+                    "src": "../../images/products/perma/banner.png",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/perma/Perma1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/perma/Perma2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/perma/Perma3.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/perma/4-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/perma/5-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/perma/6-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/perma/7-Galeria.jpg",
+                        "alt": ""
+                    }
+                ],
+                "productCatalogs": [
+                    {
+                        "img": {
+                            "src": "../../images/productCatalogs/Permas/ScreenCatalogoCover.jpg",
+                            "alt": ""
+                        },
+                        "name": "Perma",
+                        "url": "/pdfs/Screen.pdf"
+                    }
+                ],
+                "ctas": []
+            },
+            {
+                "title": "Shutters",
+                "slug": "shutters",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Los shutters son una de las inversiones más importantes para garantizar que el interior de un hogar o negocio permanezca protegido contra las tormentas destructivas. Especialmente en Santo Domingo con sus temporadas de huracanes que pueden llegar a ser muy aterradoras de no estar preparados. Encima de proteger contra huracanes, los shutters brindan confort acústico, confort térmico, y seguridad antibandalo.",
+                "extraCopy": [
+                    {
+                        "title": "Funcionamiento",
+                        "text": "Los shutter son un accesorio permanente en el hogar por su larga vida útil y ofrecen facilidad de operación y protección. se deslizan hacia abajo desde un cajón montado en la parte superior de la ventana o puerta. Hechos de una variedad de materiales diferentes como acero inoxidable, aluminio, acero galvanizado y plástico, con opciones de manejo manual, motorizados y automatizados."
+                    }
+                ],
+                "featuredImage": {
+                    "src": "../../images/products/shutters/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/shutters/Shutter1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/shutters/Shutter2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/shutters/Shutter3.png",
+                        "alt": ""
+                    }
+                ],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "TOLDO RETRACTIL",
+                "slug": "toldo-retractil",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "No tener un toldo retráctil en Santo Domingo puede dañar tus muebles al no tener protección contra los rayos UV, incluso puede hacer que sea demasiado incómodo pasar tiempo al aire libre en familia. Instalar toldos retráctiles no solo para tu patio más bonito, también podrás redescubrir el amor por tu espacio exterior.",
+                "extraCopy": [
+                    {
+                        "title": "Funcionamiento",
+                        "text": "Con opciones de manejo manual, motorizado o automatizado, al extender tienes una adición atractiva, mientras que al recogerlo se oculta de una forma que no interrumpe la fachada ni la arquitectura del hogar."
+                    }
+                ],
+                "featuredImage": {
+                    "src": "../../images/products/toldo-helix/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/toldo-helix/1-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/toldo-helix/1-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/toldo-helix/2-Galeria.JPG",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/toldo-helix/3-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/toldo-helix/4-Galeria.jpg",
+                        "alt": ""
+                    }
+                ],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "MALLAS DE SEGURIDAD",
+                "slug": "mallas-de-seguridad",
+                "canShowDefaultExtraCopy": false,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Con las mallas de seguridad, tus niños, tus mascotas y tú pueden estar tranquilos, ya que reduce el riesgo de caídas y fugas resistiendo hasta 240 libras. Evita las plagas y que los niños arrojen juguetes u otros objetos que podrían causar daños a un tercero. Con las mallas para balcones o ventanas puedes irte de casa tranquilo/a!\nLas mallas para balcones de nylon monofilamento son prácticamente invisibles y tienen una resistencia radial de 140 kg / m2 (17 kg por diamante). Ninguna red o barrera de protección puede garantizar el 100% de seguridad en caso de accidente; sin embargo, el uso correcto de este producto reduce significativamente el riesgo de lesiones o muerte.",
+                "featuredImage": {
+                    "src": "../../images/products/malla-protectora/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/malla-protectora/Malla1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/malla-protectora/Malla2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/malla-protectora/Malla3.png",
+                        "alt": ""
+                    }
+                ],
+                "extraCopy": [],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "PALILLERIA",
+                "slug": "palilleria",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "En el caluroso Santo Domingo muchas personas pierden el entusiasmo de pasar tiempo al aire libre porque el calor es demasiado. Los toldos palilleros no solo crean un hermoso refugio protegido del sol, también expande tu espacio útil al aire libre donde las familias y los amigos pueden relajarse y disfrutar.",
+                "extraCopy": [
+                    {
+                        "title": "Funcionamiento",
+                        "text": "Las palillerias constan de tres componentes esenciales: Una estructura de pérgola, tela de lona o screen, u una soga para el manejo. Todos los componentes trabajan juntos para crear un toldo palillero fácil de operar. Las estructuras se adhieren y descansan  sobre pisos o paredes exteriores de no tener una estructura previa."
+                    }
+                ],
+                "featuredImage": {
+                    "src": "../../images/products/palilleria/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/palilleria/Palilleria1.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/palilleria/Palilleria2.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/palilleria/Palilleria3.png",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/palilleria/4-Galeria.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/palilleria/5-Galeria.jpg",
+                        "alt": ""
+                    }
+                ],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "TOLDO PUNTO RECTO",
+                "slug": "toldo-punto-recto",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "TOLDO PUNTO RECTO",
+                "extraCopy": [
+                ],
+                "featuredImage": {
+                    "src": "../../images/productsLandingPage/toldo punto recto/banner.jpeg",
+                    "alt": ""
+                },
+                "gallery": [
+                ],
+                "ctas": [],
+                "productCatalogs": []
+            },
+            {
+                "title": "SOFT SHUTTERS",
+                "slug": "soft-shutters",
+                "canShowDefaultExtraCopy": true,
+                "heroTitle": "",
+                "subtitle": "",
+                "description": "Este sistema está especialmente diseñado para que el tejido no salga de las guías y tapar el sol a máxima posibilidad. Con cofre de 150 Disponible en la sola versión redonda dotada de sistema de guiado ZIP. Adaptadas en ventanas con gran impacto solar, sea entreparecen o a frontal. La guía está compuesta de dos perfiles; soporte y cubierta.",
+                "featuredImage": {
+                    "src": "../../images/products/soft-shutter/banner.webp",
+                    "alt": ""
+                },
+                "gallery": [
+                    {
+                        "src": "../../images/products/soft-shutter/Soft-shutter.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/soft-shutter/Soft-shutter2jpg.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/soft-shutter/soft-shutter-3.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/soft-shutter/soft-shutter3.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/soft-shutter/soft-shutter5.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/soft-shutter/soft-shutter7.jpg",
+                        "alt": ""
+                    },
+                    {
+                        "src": "../../images/products/soft-shutter/soft-shutter9.jpg",
+                        "alt": ""
+                    }
+                ],
+                "extraCopy": [],
+                "ctas": [],
+                "productCatalogs": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "thumbnail": {
+            "title": "Proyectos Inteligentes",
+            "image": {
+                "url": "../../images/projects/motion.jpg",
+                "alt": ""
+            }
+        },
+        "title": "Motion",
+        "subtitle": "Productos inteligentes para el hogar y los edificios",
+        "slug": "proyecto-inteligente",
+        "videoUrl": "https://drive.google.com/uc?export=download&id=1shpl9sIrh1Mq9Zoi3lAfztUu16hVjehD",
+        "intro": {
+            "title": "Controla desde cualquier lugar",
+            "description": "Motion permite operar las cortinas desde cualquier lugar, de cualquier manera. Usa la aplicación para teléfonos inteligentes, presiona el botón de un control remoto, conéctate a las tecnologías del hogar inteligente o controla las cortinas con un simple tirón. Descubre todas las opciones."
+        },
+        "cards": {
+            "title": "¿Por qué motion?",
+            "items": [
+                {
+                    "title": "Conveniencia Diaria",
+                    "description": "¿Has considerado alguna vez los beneficios de las cortinas motorizadas para ventanas? Son las pequeñas comodidades las que hacen la vida diaria mucho más fácil. Esto se aplica a todos nosotros, y en particular a las personas mayores y a las personas con problemas de movilidad.",
+                    "image": {
+                        "url": "../../images/projects/motion/article_1.jpg",
+                        "alt": ""
+                    }
+                },
+                {
+                    "title": "Una casa más segura",
+                    "description": "Las cortinas totalmente automatizadas y conectadas en las casas inteligentes siempre están en movimiento, ya sea que alguien esté en casa o no, lo que hace que la casa siempre parezca habitada. Esto hace que las personas se sientan seguras, esté donde estén en el mundo.",
+                    "image": {
+                        "url": "../../images/projects/motion/article_2.jpg",
+                        "alt": ""
+                    }
+                },
+                {
+                    "title": "Eficiencia Energética",
+                    "description": "Los revestimentos de ventanas inteligentes pueden adaptarse automáticamente a las influencias de su entorno inmediato, como la temperatura y La Luz del día. Contribuyen a un mejor clima interior, lo que resulta en hogares energéticamente eficientes.",
+                    "image": {
+                        "url": "../../images/projects/motion/article_3.jpg",
+                        "alt": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "thumbnail": {
+            "title": "Proyectos Ecológicos",
+            "image": {
+                "url": "../../images/projects/ecologico.jpg",
+                "alt": ""
+            }
+        },
+        "title": "Eco Essence",
+        "subtitle": "Telas hechas de PET reciclados",
+        "slug": "proyecto-ecologico",
+        "videoUrl": "https://drive.google.com/uc?export=download&id=1Wvzgx2nezdBNxZxeK--Y3LN51uL17-Jv",
+        "intro": {
+            "title": "Inspírate y haz un impacto",
+            "description": "Para crear el impacto en República Dominicana, Blinds Company decidió ser parte de la comunidad de Trashpackers en nuestro país junto a colaboradores, relaciones, familiares, amigos y cualquier inspirado en este movimiento para un país y mundo más limpio y sostenible. ¡El mundo es de todos!"
+        },
+        "cards": {
+            "title": "Haz un impacto",
+            "items": [
+                {
+                    "title": "Amamos Trashpackers",
+                    "description": "Con nuestros textiles ecológicos apoyamos a Trashpackers, la joven comunidad de mochileros que están limpiando basura en todo el mundo.",
+                    "image": {
+                        "url": "../../images/projects/eco/article_1.png",
+                        "alt": ""
+                    }
+                },
+                {
+                    "title": "De PET a tela",
+                    "description": "Al convertir el plástico en productos valiosos, contribuimos a reducir la cantidad de residuos en el mundo. Descubra cómo funciona esto.",
+                    "image": {
+                        "url": "../../images/projects/eco/article_2.jpg",
+                        "alt": ""
+                    }
+                },
+                {
+                    "title": "Tela eco essence",
+                    "description": "Gracias a su delgada compostura, Eco-Essence filtra bellamente la luz y da un ambiente sereno con privacidad. ¡Es flexible y elegante!",
+                    "image": {
+                        "url": "../../images/projects/eco/article_3.jpg",
+                        "alt": ""
+                    }
+                }
+            ]
+        }
+    }
+]

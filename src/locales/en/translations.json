@@ -1,0 +1,132 @@
+{
+    "promo-mobile-carousel": {
+        "title": "SOME OF OUR WORKS"
+    },
+    "promo-carousel": {
+        "title": "SOME OF OUR WORKS"
+    },
+    "promo-mobile-contact": {
+        "title": "CONTACT US",
+        "more-products":"DO YOU WANT TO SEE OUR PRODUCTS?",
+        "visit-us": "Visit us to see fabrics, mechanism and finished products."
+    },
+    "promo-contact": {
+        "title": "CONTACT US",
+        "more-products":"DO YOU WANT TO SEE OUR PRODUCTS?",
+        "visit-us": "Visit us to see fabrics, mechanism and finished products."
+    },
+    "promo-mobile-footer": {
+        "title": "PRODUCTS",
+        "curtains": "Curtains",
+        "perma": "Permas",
+        "blind": "Blinds",
+        "palilleria": "Palilleria",
+        "shutters": "Shutters",
+        "safety-nets": "Safety nets",
+        "newsletter": "NEWSLETTER",
+        "subscribe": "Subscribe to keep up to date about our novelties",
+        "send": "SEND",
+        "follow-us": "FOLLOW US",
+        "contact-us": "CONTACT US",
+        "questions": "Do you want to quote, inquire or want to ask a question?",
+        "questions-contact": "CONTACT US"
+    },
+    "promo-footer": {
+        "title": "PRODUCTS",
+        "curtains": "Curtains",
+        "perma": "Permas",
+        "blind": "Blinds",
+        "palilleria": "Palilleria",
+        "shutters": "Shutters",
+        "safety-nets": "Safety nets",
+        "newsletter": "NEWSLETTER",
+        "subscribe": "Subscribe to keep up to date about our novelties",
+        "send": "SEND",
+        "follow-us": "FOLLOW US",
+        "contact-us": "CONTACT US",
+        "questions": "Do you want to quote, inquire or want to ask a question?",
+        "questions-contact": "CONTACT US"
+    },
+    "promo-mobile-hero": {
+        "phone-contact": "Call us - ",
+        "whatsapp-contact": "Write us - "
+    },
+    "promo-hero": {
+        "phone-contact": "Call us ",
+        "whatsapp-contact": "Write us "
+    },
+    "promo-mobile-steps": {
+        "title": "YOUR PRODUCTS FAST AND EASY",
+        "contact": "1. CONTACT US",
+        "contact-description": "Call us, write us via email or whatsapp and we will assist you during the process.",
+        "quote": "2. QUOTE YOUR MEASUREMENTS",
+        "quote-description": "Convey your measurements or schedule an appointment to measure and quote your measurements.",
+        "manufacturing": "3. MANUFACTURING",
+        "manufacturing-description": "In case of approving the budget, we will manufacture your product between 5 to 7 work days.",
+        "install": "4. INSTALL",
+        "install-description": "We will install your products pending in every detail, in perfect order and cleanliness."
+    },
+    "promo-steps": {
+        "title": "YOUR PRODUCTS FAST AND EASY",
+        "contact": "1. CONTACT US",
+        "contact-description": "Call us, write us via email or whatsapp and we will assist you during the process.",
+        "quote": "2. QUOTE YOUR MEASUREMENTS",
+        "quote-description": "Convey your measurements or schedule an appointment to measure and quote your measurements.",
+        "manufacturing": "3. MANUFACTURING",
+        "manufacturing-description": "In case of approving the budget, we will manufacture your product between 5 to 7 work days.",
+        "install": "4. INSTALL",
+        "install-description": "We will install your products pending in every detail, in perfect order and cleanliness."
+    },
+    "promo-mobile-header": {
+        "joint": "Thermo-welded joints",
+        "hilti":"Installation with Hilti",
+        "ultrasonic-cutter":"Ultasonic cut",
+        "milimetric-machine":"Millimeter measuring machine",
+        "modular-components":"Modular components",
+        "dutch-products":"Dutch Products"
+    },
+    "promo-header": {
+        "joint": "Thermo-welded joints",
+        "hilti":"Installation with Hilti",
+        "ultrasonic-cutter":"Ultasonic cut",
+        "milimetric-machine":"Millimeter measuring machine",
+        "modular-components":"Modular components",
+        "dutch-products":"Dutch Products",
+        "visit-us": "VISIT OUR STORE",
+        "contact-us":"CONTACT US"
+    },
+    "promo-phone-action": {
+        "contact-us": "Contact us on phone"
+    },
+    "promo-whatsapp-action": {
+        "contact-us": "Contact us on whatsapp"
+    },
+    "promo-email-form": {
+        "title": "REQUEST A PROFESIONAL MEASUREMENT",
+        "description": "If you do not have your measures, fill this form and we will call your to schedule an appointment to take your measures. Measurements outside of Santo Domingo? No issue, it will only take an additional fee",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "building": "Building",
+        "apartment": "Apartment",
+        "address": "Address",
+        "province": "Province",
+        "reference": "Reference - In front of the park, etc...",
+        "email": "Email",
+        "phone": "Phone",
+        "motive": "Visit motive - Measure curtains, etc...",
+        "notes": "Notes - Is there a preferred contact channel?, etc...",
+        "send": "REQUEST MEASUREMENTS FOR FREE"
+    },
+    "promo-mobile-contact-page": {
+        "phone": "Phone",
+        "email":"Email",
+        "visit-us":"Visit us",
+        "whatsapp":"whatsapp"
+    },
+    "promo-contact-page": {
+        "phone": "Phone",
+        "email":"Email",
+        "visit-us":"Visit us",
+        "whatsapp":"whatsapp"
+    }
+}

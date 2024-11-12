@@ -1,0 +1,71 @@
+{
+  "logo": "../../images/promo/logo2.png",
+  "contactBanner": "../../images/promo/bannerContactanos.jpg",
+  "contactBlackoutBanner": "../../images/promo/bgBlackout.png",
+  "contactIcons": [
+    {
+      "name": "phone",
+      "icon": "../../images/promo/contact/Phone.svg"
+    },
+    {
+      "name": "whatsapp",
+      "icon": "../../images/promo/contact/WhatsApp.svg"
+    },
+    {
+      "name": "email",
+      "icon": "../../images/promo/contact/Mail.svg"
+    },
+    {
+      "name": "visit-us",
+      "icon": "../../images/promo/contact/Location.svg"
+    }
+  ],
+  "formBackgrounds": {
+    "enrollable": "../../images/promo/forms/foto_cortina_enrollable.png",
+    "zebra": "../../images/promo/forms/foto_cortinas_zebra.png",
+    "palilleria": "../../images/promo/forms/foto_palilleria.png"
+  },
+  "companyLocationLink": "https://www.google.com/maps/place/Blinds+Company/@18.4582739,-69.9718827,17z/data=!3m1!4b1!4m6!3m5!1s0x8ea5617dcd59cd59:0x5ae365768501717c!8m2!3d18.4582739!4d-69.9718827!16s%2Fg%2F11q1h72k94?hl=en-DO",
+  "whatsAppLink": "https://wa.me/18299040007",
+  "whatsAppDisplayNumber": "829-904-0007",
+  "officeDisplayNumber": "809-535-2954",
+  "instagramHandle": "@blindscompanyrd",
+  "companyEmail": "ventas@blindscompanyrd.com",
+  "facebookHandle": "blindscompanyrd",
+  "officeNumber": "8095352954",
+  "facebookLink": "https://www.facebook.com/BlindsCompanyRD/",
+  "instagramLink": "https://www.instagram.com/blindscompanyrd/",
+  "header": {
+    "items": [
+      "joint",
+      "hilti",
+      "ultrasonic-cutter",
+      "milimetric-machine",
+      "modular-components",
+      "dutch-products"
+    ]
+  },
+  "steps": [
+    {
+      "image": "../../images/promo/stepIcons/phone.png",
+      "title": "contact",
+      "description": "contact-description"
+    },
+    {
+      "image": "../../images/promo/stepIcons/pencil.png",
+      "title": "quote",
+      "description": "quote-description"
+    },
+    {
+      "image": "../../images/promo/stepIcons/puzzle.png",
+      "title": "manufacturing",
+      "description": "manufacturing-description"
+    },
+    {
+      "image": "../../images/promo/stepIcons/tools.png",
+      "title": "install",
+      "description": "install-description"
+    }
+  ]
+
+}

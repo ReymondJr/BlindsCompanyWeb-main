@@ -1,0 +1,217 @@
+{
+  "forms":[
+    {
+      "slug":"cortinas-blackout",
+      "imageAlt":"Cortinas blackout | Blinds Company",
+      "image":"../../images/promo/enrollables/banner.jpg",
+      "title":"SOLICITA MEDICIÓN DE CORTINAS BLACKOUT EN TODA REPUBLICA DOMINICANA"
+      
+    },
+    {
+      "slug": "cortinas-enrollables",
+      "imageAlt": "Cortinas enrollables | Blinds Company",
+      "image": "../../images/promo/enrollables/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS ENROLLABLES EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-roller",
+      "imageAlt": "Cortinas roller | Blinds Company",
+      "image": "../../images/promo/enrollables/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS ROLLER EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "persianas-blackout",
+      "imageAlt": "Persianas blackout | Blinds Company",
+      "image": "../../images/promo/enrollables/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE PERSIANAS BLACKOUT EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "persianas-enrollables",
+      "imageAlt": "Persianas enrollables | Blinds Company",
+      "image": "../../images/promo/enrollables/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE PERSIANAS ENROLLABLES EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-zebra",
+      "imageAlt": "Cortinas zebra | Blinds Company",
+      "image": "../../images/promo/zebra/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS ZEBRA EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "persianas-zebra",
+      "imageAlt": "Persianas zebra | Blinds Company",
+      "image": "../../images/promo/zebra/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE PERSIANAS ZEBRA EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-perma",
+      "imageAlt": "Cortinas perma | Blinds Company",
+      "image": "../../images/promo/permas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS PERMA EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-enrollables-para-exterior",
+      "imageAlt": "Cortinas enrollables para exterior | Blinds Company",
+      "image": "../../images/promo/permas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS ENROLLABLES PARA EXTERIOR EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "estor-enrollable",
+      "imageAlt": "Estor enrollable | Blinds Company",
+      "image": "../../images/promo/contactBanners/estores.jpg",
+      "title": "SOLICITA MEDICIÓN DE ESTOR ENROLLABLE EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "estor-de-exterior",
+      "imageAlt": "Estor de exterior | Blinds Company",
+      "image": "../../images/promo/contactBanners/estores.jpg",
+      "title": "SOLICITA MEDICIÓN DE ESTORES DE EXTERIOR EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "malla-protectora",
+      "imageAlt": "Malla protectora | Blinds Company",
+      "image": "../../images/promo/malla/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE MALLA PROTECTORA EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "mallas-de-seguridad",
+      "imageAlt": "Mallas de seguridad | Blinds Company",
+      "image": "../../images/promo/malla/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE MALLAS DE SEGURIDAD EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "mallas-para-balcones",
+      "imageAlt": "Mallas para balcones | Blinds Company",
+      "image": "../../images/promo/malla/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE MALLAS PARA BALCONES EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "shutters",
+      "imageAlt": "Shutters | Blinds Company",
+      "image": "../../images/promo/shutters/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE SHUTTERS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-verticales",
+      "imageAlt": "Cortinas Verticales | Blinds Company",
+      "image": "../../images/promo/cortinas verticales/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS VERTICALES EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-de-visillo",
+      "imageAlt": "Cortinas de Visillo | Blinds Company",
+      "image": "../../images/promo/visillos/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS DE VISILLO EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-modernas",
+      "imageAlt": "Cortinas Modernas | Blinds Company",
+      "image": "../../images/promo/cortinas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS MODERNAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "roman-shade",
+      "imageAlt": "Roman Shade | Blinds Company",
+      "image": "../../images/promo/roman shade/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE ROMAN SHADE EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "toldo-palillero",
+      "imageAlt": "Toldo Palillero | Blinds Company",
+      "image": "../../images/promo/palilleria/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE TOLDO PALILLERO EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "mallas-para-mosquitos",
+      "imageAlt": "Mallas para mosquitos | Blinds Company",
+      "image": "../../images/promo/mosquiteras/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE MALLAS PARA MOSQUITOS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "screen-para-mosquitos",
+      "imageAlt": "screen para mosquitos | Blinds Company",
+      "image": "../../images/promo/mosquiteras/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE SCREEN PARA MOSQUITOS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "escrines-para-ventanas",
+      "imageAlt": "escrines para ventanas | Blinds Company",
+      "image": "../../images/promo/mosquiteras/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE ESCRINES PARA VENTANAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "mosquiteras-para-ventanas",
+      "imageAlt": "Mosquiteras para ventanas | Blinds Company",
+      "image": "../../images/promo/mosquiteras/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE MOSQUTIERAS PARA VENTANAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "palilleria",
+      "imageAlt": "Palilleria | Blinds Company",
+      "image": "../../images/promo/palilleria/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE PALILLERIA EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "panel-deslizante",
+      "imageAlt": "Panel deslizante | Blinds Company",
+      "image": "../../images/promo/panel/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE PANEL DESLIZANTE EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-panel-japones-deslizante",
+      "imageAlt": "Cortinas panel japones deslizante | Blinds Company",
+      "image": "../../images/promo/panel/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS PANEL JAPONES DESLIZANTE EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-ondas-perfectas",
+      "imageAlt": "Cortinas Ondas Perfectas | Blinds Company",
+      "image": "../../images/promo/ondas-perfectas/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS ONDAS PERFECTAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-tachonadas",
+      "imageAlt": "Cortinas Tachonadas | Blinds Company",
+      "image": "../../images/promo/tachonadas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS TACHONADAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-hoteleras",
+      "imageAlt": "cortinas hoteleras | Blinds Company",
+      "image": "../../images/promo/tachonadas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS HOTELERAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-de-riel-hotelero",
+      "imageAlt": "cortinas de riel hotelero | Blinds Company",
+      "image": "../../images/promo/tachonadas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS DE RIEL HOTELERO EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-ripplefold",
+      "imageAlt": "cortinas ripplefold | Blinds Company",
+      "image": "../../images/promo/tachonadas/banner.jpg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS RIPPLEFOLD EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "slug": "cortinas-venecianas",
+      "imageAlt": "Cortinas Venecianas | Blinds Company",
+      "image": "../../images/promo/venecianas/banner.jpeg",
+      "title": "SOLICITA MEDICIÓN DE CORTINAS VENECIANAS EN TODA REPUBLICA DOMINICANA"
+    },
+    {
+      "language": "en",
+      "slug": "curtain-store-in-santo-domingo",
+      "imageAlt": "Curtain Store in santo domingo| Blinds Company",
+      "image": "../../images/promo/curtain-store/banner.jpeg",
+      "title": "REQUEST OUR MEASSURING SERVICES FROM OUR CURTAIN STORE IN SANTO DOMINGO"
+    },
+    {
+      "language": "en",
+      "slug": "curtain-store-in-dominican-republic",
+      "imageAlt": "Curtain Store in dominican republic | Blinds Company",
+      "image": "../../images/promo/curtain-store/banner.jpeg",
+      "title": "REQUEST OUR MEASSURING SERVICES FROM OUR CURTAIN STORE IN DOMINICAN REPUBLIC"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "title": "Vive la belleza",
+    "subtitle": "Productos inspirados en la Naturaleza",
+    "video": "",
+    "fallbackImage": {
+      "src": "../../images/home/homepage.jpg",
+      "alt": "main"
+    }
+  },
+
+  "productsSection": {
+    "title": "Nuestros Productos",
+    "products": [
+      {
+        "title": "Productos de Interior",
+        "content": "Conoce nuestros productos de interior que incluye: cortinas enrollables, cortinas zebra, cortinas de visillo, roman shades, cortinas vertical, panel deslizante y cortinas venecianas",
+        "img": "../../images/home/interior.jpg",
+        "to": "productos#interior"
+      },
+      {
+        "title": "Productos de Exterior",
+        "content": "Conoce nuestros productos de exterior que incluye: cortinas permas, toldos retractiles, toldos punto recto, soft shutters palilleria, shutters y mallas de seguridad",
+        "img": "../../images/home/exterior.jpg",
+        "to": "productos#exterior"
+      },
+      {
+        "title": "Automatización",
+        "content": "Controla una o múltiples cortinas con un solo clic al control remoto, usa temporizadores, o conéctate a altavoces inteligente como Amazon, Google Home, Apple Homekit, etc..",
+        "img": "../../images/home/automatizacion.jpg",
+        "to": "automation"
+      }
+    ]
+  },
+  "fabricsSection": {
+    "title": "Catalogo Telas",
+    "products": [
+      {
+        "title": "Telas Screen",
+        "content": "Nuestra colección de telas screen está pensada para aquellos que buscan un equilibrio perfecto entre estética y funcionalidad en sus espacios de vida o trabajo. Estas telas, destacadas por su transparencia calculada, permiten disfrutar de la vista exterior sin sacrificar la privacidad, y al mismo tiempo, filtran la luz solar, reduciendo el calor y protegiendo los interiores de los dañinos rayos UV. Disponibles en una amplia gama de colores y patrones, las telas screen se adaptan a cualquier entorno, proporcionando un toque de elegancia y modernidad. Además, están fabricadas con materiales de alta resistencia, lo que garantiza su durabilidad.",
+        "img": "../../images/home/telas/telas screen.png"
+      },
+      {
+        "title": "telas Blackout",
+        "content": "Estas telas, especialmente seleccionadas por su capacidad para bloquear la luz de manera eficaz, son ideales para habitaciones donde se desea controlar el ingreso de luz natural, como dormitorios o salas de medios. Además de su principal beneficio práctico, nuestra colección se destaca por su variedad de diseños y colores, adaptándose a cualquier tipo de decoración, desde la más moderna hasta la más clásica. Cada tela ha sido cuidadosamente escogida para asegurar durabilidad, facilidad de mantenimiento y, sobre todo, una estética atractiva que realce la belleza de cada estancia.",
+        "img": "../../images/home/telas/telas blackout.png"
+      },
+      {
+        "title": "Telas Zebra",
+        "content": "Nuestra exclusiva colección de telas para cortinas Zebra, con opciones Dim Out y Translúcidas, es la solución ideal para aquellos que desean combinar elegancia y funcionalidad en sus espacios. Estas telas, seleccionadas por su capacidad de ajustar perfectamente la entrada de luz, te permiten personalizar el ambiente de cada área a tu gusto. Desde telas Dim Out para áreas que requieren oscuridad o menos brillo, telas zebra screen resistente al agua para baños y cocinas, telas decorativas cuando la funcionalidad no es tan importante como la estética, estas cortinas son perfectas para reflejar tu estilo personal.",
+        "img": "../../images/home/telas/telas zebra.png"
+      },
+      {
+        "title": "Telas Lona",
+        "content": "Nuestra colección de telas de lona para toldos ha sido especialmente diseñada pensando en la durabilidad, la estética y la funcionalidad. Fabricadas para resistir las condiciones climáticas más exigentes, estas telas ofrecen una protección óptima contra los rayos UV, garantizando no solo la comodidad sino también la prolongación de la vida útil de tus espacios exteriores. La versatilidad de nuestra gama permite una adaptación perfecta a cualquier diseño de toldo, complementando y elevando el estilo de patios, terrazas y jardines.",
+        "img": "../../images/home/telas/telas lona.png"
+      }
+    ]
+  },
+  "sideBySide": {
+    "title": "Comfort y conveniencia",
+    "card": {
+      "title": "Blinds Company",
+      "description": "Bienvenido al mundo inspirador de Blinds Company: un mundo de soluciones solares en el que la belleza y la funcionalidad se unen para crear e instalar la solución perfecta de cobertura solar. Desde su creación en 2012, Blinds basó sus colecciones y proyectos inspirados en el arte, la arquitectura, el diseño, la tecnología y la naturaleza.",
+      "image": {
+        "src": "../../images/home/supperposedImage.jpg",
+        "alt": ""
+      }
+    }
+  },
+  "catalogs": {
+    "title": "Busca inspiracion en nuestros catálogos",
+    "downloadCtaText": "Descargar"
+  },
+  "previousProjects": [
+    {
+      "title": "Poder Judicial",
+      "img": "../../images/projects/PODER-JUDICIAL.jpg"
+    },
+    {
+      "title": "Banreservas",
+      "img": "../../images/projects/BANRESERVAS.jpg"
+    },
+    {
+      "title": "APAP",
+      "img": "../../images/projects/APAP.jpg"
+    },
+    {
+      "title": "Altice",
+      "img": "../../images/projects/ALTICE.jpg"
+    },
+    {
+      "title": "ARS Palic",
+      "img": "../../images/projects/ARS-PALIC.jpg"
+    },
+    {
+      "title": "CEDIMAT",
+      "img": "../../images/projects/CEDIMAT.jpg"
+    },
+    {
+      "title": "Corporativo 2010",
+      "img": "../../images/projects/CORPORATIVO-2010.jpg"
+    },
+    {
+      "title": "Plaza de la Salud",
+      "img": "../../images/projects/PLAZA-DE-LA-SALUD.jpg"
+    },
+    {
+      "title": "Banco del Progreso",
+      "img": "../../images/projects/PROGRESO.jpg"
+    },
+    {
+      "title": "PUCMM",
+      "img": "../../images/projects/PUCMM.jpg"
+    },
+    {
+      "title": "Texas Rangers",
+      "img": "../../images/projects/TEXAS-RANGERS.jpg"
+    }
+  ]
+}

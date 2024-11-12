@@ -1,0 +1,100 @@
+{
+  "name": "Blinds Company",
+  "contact": {
+    "icon": "../../images/icons/contact-us.svg",
+    "email": {
+      "base": "info@blindscompanyrd.com",
+      "sales": "ventas@blindscompanyrd.com"
+    },
+    "phone": {
+      "base": "+1-809-535-2954",
+      "whatsapp": "+1-829-904-0007",
+      "whatsAppLink": "https://wa.me/18299040007"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/BlindsCompanyRD/",
+      "instagram": "https://www.instagram.com/blindscompanyrd/",
+      "linkedin": "https://www.linkedin.com/company/blinds-company/",
+      "youtube": "https://www.youtube.com/channel/UC1pu629SY6Fa74vAHHOhG5Q/videos"
+    },
+    "address": {
+      "text": ["Calle Juan Ballenilla 43", "Santo Domingo 11001"],
+      "url": "https://maps.google.com/?q=Proye-sol%20s.r.l.,%20Calle%20Juan%20Ballenilla,%20Santo%20Domingo"
+    }
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Blinds Company",
+      "url": "/nosotros"
+    },
+    {
+      "name": "Productos",
+      "url": "/productos"
+    },
+    {
+      "name": "Contactanos",
+      "url": "/contacto-general"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Coulisse",
+      "url": "https://coulisse.com/",
+      "image": "../../images/icons/coulisse.svg"
+    },
+    {
+      "name": "Proye Sol",
+      "url": "https://proye-sol.com/",
+      "image": "../../images/icons/proye-sol.svg"
+    },
+    {
+      "name": "Trashpackers",
+      "url": "https://trashpackers.org/",
+      "image": "../../images/icons/trashpackers.svg"
+    },
+    {
+      "name": "Somfy",
+      "url": "https://www.somfy.com/",
+      "image": "../../images/icons/somfy.svg"
+    }
+  ],
+  "catalogs": [
+    {
+      "name": "Catálogo Partners",
+      "viewLink": "http://online.anyflip.com/nhjch/fsxb/mobile/index.html",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1GZ6cmXECWmT3xOt1MVGA8zxL673dyhum",
+      "image": "../../images/catalogs/catalogo-partners.jpg",
+      "showOnFooter": false
+    },
+    {
+      "name": "Catálogo Telas",
+      "viewLink": "https://drive.google.com/file/d/1SOgBdvf-vcsmytP_Hj9GL_XtNI-IW8RG/view",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1SOgBdvf-vcsmytP_Hj9GL_XtNI-IW8RG",
+      "image": "../../images/catalogs/catalogo-telas.jpg",
+      "showOnFooter": true
+    },
+    {
+      "name": "Catálogo Eco",
+      "viewLink": "http://online.anyflip.com/nhjch/lcyd/mobile/index.html",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=123WomcSlYLeiqAE0wiN9r5ySzA15LnkE",
+      "image": "../../images/catalogs/catalogo-eco.jpg",
+      "showOnFooter": true
+    },
+    {
+      "name": "Catálogo Somfy",
+      "viewLink": "http://online.anyflip.com/nhjch/mftf/mobile/index.html",
+      "downloadLink": "https://drive.google.com/uc?export=download&id=1utpHD4Km488KWnEmDiXldduZGqDN0wY3",
+      "image": "../../images/catalogs/catalogo-somfy.jpg",
+      "showOnFooter": true
+    }
+  ],
+  "newsletter": {
+    "title": "Suscríbete a nuestro Newsletter",
+    "placeholder": "E-mail",
+    "submitButton": "Enviar"
+  }
+}

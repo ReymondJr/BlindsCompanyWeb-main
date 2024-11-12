@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "video": "/automation.mp4"
+  },
+  "technologySection": {
+    "title": "ULTIMAS TECNOLOGIAS",
+    "products": [
+      {
+        "title": "MOTOR AUTOBLOCANTE",
+        "content": "Protección avanzada con nuestra tecnología de detección de obstáculos, perfecto para cortinas permas, el funcionamiento del motor se interrumpe automáticamente al identificar cualquier tipo de obstáculo como subir las permas enganchadas. Esta medida de precaución tiene como objetivo principal prevenir el sobrecalentamiento y el daño irreversible del motor, asegurando así su óptimo desempeño y prolongando su vida útil.",
+        "img": "../../images/automation/1.jpg"
+      },
+      {
+        "title": "SENSORES DE VIENTO",
+        "content": "Sensor de movimiento para la detección de vientos fuertes, de todas las direcciones. Cuida tu toldo al cerrar automáticamente el toldo cuando detecta vibraciones causadas por el viento. Se instala directamente en la parte detrás de la barra terminal del toldo haciéndolo 100% discreto. El sensor de viento dispone de una tecnología eficiente y precisa que mide las vibraciones en tu toldo para una verdadera protección. Sensor inalámbrico que no necesita mantenimiento con baterías de larga duración (+ 5 años).",
+        "img": "../../images/automation/2.jpg"
+      },
+      {
+        "title": "PUENTE INTELIGENTE WIFI",
+        "content": "Crea una conexión a través del Wi-Fi del hogar y le permite controlar nuestros productos motorizados con aplicaciones designadas para teléfonos inteligentes e interacción con ecosistemas como Amazon Alexa, Google Assistant, Apple HomeKit, IFTTT y SmartThings, etc., a través de API en la nube. La interfaz RS485 ofrece una opción de integración adicional en sistemas de automatización del hogar de terceros como Control4, Crestron, entre otros.",
+        "img": "../../images/automation/3.jpg"
+      }
+    ]
+  },
+  "easeOfUseSection": {
+    "title": "FACIL DE USAR",
+    "products": [
+      {
+        "title": "CONTROL REMOTO",
+        "content": "Maneja entre una y quince cortinas con un simple clic en nuestro control remoto de diseño sofisticado.",
+        "img": "../../images/automation/4.jpg"
+      },
+      {
+        "title": "TELEFONO",
+        "content": "Manejalas a través de nuestra aplicación móvil disponible para iOS y Android donde podrás crear escenas y poner temporizadores.",
+        "img": "../../images/automation/5.jpg"
+      },
+      {
+        "title": "ALTAVOCES INTELIGENTE",
+        "content": "Controla tus cortinas de interior y exterior con comando de voz a altavoces inteligentes como Amazon Alexa, Google Assistant, o Siri.",
+        "img": "../../images/automation/6.jpg"
+      }
+    ]
+  }
+}

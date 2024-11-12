@@ -1,0 +1,87 @@
+{
+    "projectsList": {
+        "title": "No trabajamos para ti, trabajamos contigo"
+    },
+    "commercialReferences": {
+        "title": "Referencias Comerciales",
+        "previousProjects": [
+            {
+                "title": "Altice",
+                "img": {
+                    "url": "../../images/projects/ALTICE.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "APAP",
+                "img": {
+                    "url": "../../images/projects/APAP.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "ARS Palic",
+                "img": {
+                    "url": "../../images/projects/ARS-PALIC.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Banreservas",
+                "img": {
+                    "url": "../../images/projects/BANRESERVAS.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "CEDIMAT",
+                "img": {
+                    "url": "../../images/projects/CEDIMAT.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Corporativo 2010",
+                "img": {
+                    "url": "../../images/projects/CORPORATIVO-2010.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Plaza de la Salud",
+                "img": {
+                    "url": "../../images/projects/PLAZA-DE-LA-SALUD.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Poder Judicial",
+                "img": {
+                    "url": "../../images/projects/PODER-JUDICIAL.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Banco del Progreso",
+                "img": {
+                    "url": "../../images/projects/PROGRESO.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "PUCMM",
+                "img": {
+                    "url": "../../images/projects/PUCMM.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Texas Rangers",
+                "img": {
+                    "url": "../../images/projects/TEXAS-RANGERS.jpg",
+                    "alt": ""
+                }
+            }
+        ]
+    }
+}

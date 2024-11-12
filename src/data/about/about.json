@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "image": {
+      "src": "../../images/about/sobre-blinds.jpg",
+      "alt": ""
+    }
+  },
+  "description": {
+    "title": "BLINDS COMPANY BY PROYESOL, UNA COMPAÑIA FAMILIAR CON MAS DE 25 AÑOS",
+    "description": "Bienvenido al mundo inspirador de Blinds Company: un mundo de soluciones en el que la belleza y la funcionalidad se unen, para crear e instalar la solución perfecta de cobertura solar. Desde su creación en 2012 Blinds basó sus colecciones y proyectos inspirados en el arte, la arquitectura, el diseño, la tecnología y la naturaleza."
+  },
+  "infoSection": {
+    "title": "Vertientes Blinds Company",
+    "blocks": [
+      {
+        "title": "Los Inicios",
+        "description": "Proyesol fue establecida en 1996, creada por Paolo Chinaglia con una misión específica: introducir y producir las primeras persianas venecianas en la isla. En sus inicios, Proyesol ofrecía 7 colores (considerado un amplio surtido dado que era un producto novedoso en República Dominicana). Sin embargo, enfrentó retos iniciales relacionados con las barreras lingüísticas y culturales, lo que resultó en un arranque gradual. Todo cambió con la llegada del primer gran proyecto, momento desde el cual la reputación de la empresa creció rápidamente. Actualmente, Proyesol es una empresa ampliamente reconocida y apreciada por su clientela.",
+        "img": {
+          "src": "../../images/about/Inicios.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "De camino a un crecimiento sostenible",
+        "description": "Nuestros planes para el futuro se basan en la tecnología y productos sostenibles, creemos en que las cortinas ecológicas y telas fabricadas con procesos y fabricas sostenibles contribuyen a una red inspiradora para nuestro equipo, clientes, proveedores y el mundo que nos rodea. Nuestra misión parte de ser el mejor, y lo mejor para el mundo. Los transportes eléctricos, la energía no contaminante, apoyo a comunidades sostenibles, la acción por el clima y el reúso, entre otros, seguir cumpliendo estas acciones son formas de nuestro crecimiento sostenible.",
+        "img": {
+          "src": "../../images/about/De_camino_a_un_crecimiento_sostenible.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Fabricación",
+        "description": "En cada una de nuestras acciones, estamos comprometidos con el reto de alcanzar una calidad superior a través de la innovación tecnológica. Nuestro enfoque para superar los estándares de calidad se fundamenta en el uso de equipos especializados desde el inicio del proceso de fabricación. Desde máquinas de corte ultrasónico y termo-sellado, equipos diseñados para cortes y mediciones exactas, hasta dispositivos destinados a asegurar una verificación de calidad óptima en los productos finales, fabricamos soluciones solares que se distinguen por su excepcionalidad.",
+        "img": {
+          "src": "../../images/about/Fabricacion.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "INSTALACIONES",
+        "description": "Realizamos la instalación de tus productos de manera perfecta, eficiente y segura, con una exactitud inigualable. Nuestro equipo de instaladores está compuesto por expertos altamente cualificados, con amplia experiencia y formación. Para asegurar un entorno limpio y una calidad superior, utilizamos perforadoras con sistema de aspiración y materiales de la reconocida marca Hilti. Empleamos tornillos que son 1 mm más pequeños que el diámetro del tarugo para prevenir su rotación al introducir el tornillo, y hacemos el orificio 1 mm más grande que la longitud del tarugo para asegurar su estabilidad. Nuestra garantía es la plena satisfacción de nuestros clientes.",
+        "img": {
+          "src": "../../images/about/Fabricacion.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Gente Apasionada",
+        "description": "Nuestros ojos siempre están puestos en el futuro, el diseño y la moda, lo que hace que las personas apasionadas y enérgicas se sientan como en casa en Blinds Company. Como equipo, estamos constantemente en movimiento mientras nos divertimos haciendo lo que hacemos, lo que nos une en nuestra misión de ofrecer productos excepcionales, asegurando que cada producto no solo cumpla con las expectativas de nuestros clientes, sino que también aporte belleza y funcionalidad a sus espacios, cultivando relaciones duraderas y construyendo sueños.",
+        "img": {
+          "src": "../../images/about/gente-apasionada.jpg",
+          "alt": ""
+        }
+      }
+    ]
+  }
+}

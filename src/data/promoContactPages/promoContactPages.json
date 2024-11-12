@@ -1,0 +1,370 @@
+{
+  "contactPages":[
+    {
+      "slug": "general",
+      "imageAlt": "General Contacto | Blinds Company",
+      "bannerImage": "../../images/promo/bannerContactanos.jpg",
+      "bannerTitle": "SANTO DOMINGO, REPUBLICA DOMINICANA",
+      "bannerSubtitle": "Calle Juan Ballenita #43, Zona Industrial de Herrera. Nave No. 1 & 2",
+      "formTitle": "SOLICITA UNA MEDICIÓN",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas roller."
+    },
+    {
+      "slug":"cortinas-enrollables",
+      "imageAlt":"Cortinas enrollables | Blinds Company",
+      "bannerImage":"../../images/promo/contactBanners/blackout.png",
+      "bannerTitle":"CORTINAS ENROLLABLES EN TODA REPUBLICA DOMINICANA",
+      "formTitle":"SOLICITA MEDICIÓN DE CORTINAS ENROLLABLES ",
+      "formText":"",
+      "infoTitle":"FELICES DE AYUDARTE",
+      "infoText":"Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas enrollables."
+    },
+    {
+      "slug": "cortinas-roller",
+      "imageAlt": "Cortinas roller | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/blackout.png",
+      "bannerTitle": "CORTINAS ROLLER EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS ROLLER",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas roller."
+    },
+    {
+      "slug": "persianas-enrollables",
+      "imageAlt": "Persianas enrollables | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/blackout.png",
+      "bannerTitle": "PERSIANAS ENROLLABLES EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE PERSIANAS ENROLLABLES",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus persianas enrollables."
+    },
+    {
+      "slug": "cortinas-blackout",
+      "imageAlt": "Cortinas blackout | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/blackout.png",
+      "bannerTitle": "CORTINAS BLACKOUT EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS BLACKOUT",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas blackout."
+    },
+    {
+      "slug": "persianas-blackout",
+      "imageAlt": "Persianas blackout | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/blackout.png",
+      "bannerTitle": "PERSIANAS BLACKOUT EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE PERSIANAS BLACKOUT",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus persianas blackout."
+    },
+    {
+      "slug": "cortinas-zebra",
+      "imageAlt": "Cortinas zebra | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/zebra.png",
+      "bannerTitle": "CORTINAS ZEBRA EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS ZEBRA",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas zebra."
+    },
+    {
+      "slug": "persianas-zebra",
+      "imageAlt": "Persianas zebra | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/blackout.png",
+      "bannerTitle": "PERSIANAS ZEBRA EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE PERSIANAS ZEBRA",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus persianas zebra."
+    },
+    {
+      "slug": "cortinas-permas",
+      "imageAlt": "Cortinas permas | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/estores.jpg",
+      "bannerTitle": "CORTINAS PERMAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS PERMAS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas permas."
+    },
+    {
+      "slug": "cortinas-enrollables-para-exterior",
+      "imageAlt": "Cortinas enrollables para exterior | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/estores.jpg",
+      "bannerTitle": "CORTINAS ENROLABLES PARA EXTERIOR",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS ENROLABLES PARA EXTERIOR",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas para exterior."
+    },
+    {
+      "slug": "estor-enrollable",
+      "imageAlt": "Estor enrollable | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/estores.jpg",
+      "bannerTitle": "ESTOR ENROLLABLE EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE ESTOR ENROLLABLE",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tu estor enrollable."
+    },
+    {
+      "slug": "estor-de-exterior",
+      "imageAlt": "Estores de exterior | Blinds Company",
+      "bannerImage": "../../images/promo/contactBanners/estores.jpg",
+      "bannerTitle": "ESTORES DE EXTERIOR EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE ESTORES DE EXTERIOR",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tu estores de exterior."
+    },
+    {
+      "slug": "malla-protectora",
+      "imageAlt": "Malla protectora | Blinds Company",
+      "bannerImage": "../../images/promo/malla/banner.jpg",
+      "bannerTitle": "MALLA PROTECTORA EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE MALLA PROTECTORA",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tu Malla protectora a la medida perfecta."
+    },
+    {
+      "slug": "malla-para-mosquitos",
+      "imageAlt": "Malla para mosquitos | Blinds Company",
+      "bannerImage": "../../images/promo/mosquiteras/banner.jpeg",
+      "bannerTitle": "MALLA PARA MOSQUITOS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE MALLA PARA MOSQUITOS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tu Malla para mosquitos a la medida perfecta."
+    },
+    {
+      "slug": "screen-para-mosquitos",
+      "imageAlt": "Screen para mosquitos | Blinds Company",
+      "bannerImage": "../../images/promo/mosquiteras/banner.jpeg",
+      "bannerTitle": "SCREEN PARA MOSQUITOS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE SCREEN PARA MOSQUITOS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tu Screen para mosquitos a la medida perfecta."
+    },
+    {
+      "slug": "mosquiteras-para-ventanas",
+      "imageAlt": "Mosquiteras para ventanas | Blinds Company",
+      "bannerImage": "../../images/promo/mosquiteras/banner.jpeg",
+      "bannerTitle": "MOSQUITERAS PARA VENTANAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE MOSQUITERAS PARA VENTANAS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tu Mosquiteras para ventanas a la medida perfecta."
+    },
+    {
+      "slug": "escrines-para-ventanas",
+      "imageAlt": "escrines para ventanas | Blinds Company",
+      "bannerImage": "../../images/promo/mosquiteras/banner.jpeg",
+      "bannerTitle": "ESCRINES PARA VENTANAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE ESCRINES PARA VENTANAS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tus escrines para ventanas a la medida perfecta."
+    },
+    {
+      "slug": "panel-deslizante",
+      "imageAlt": "panel deslizante | Blinds Company",
+      "bannerImage": "../../images/promo/panel/banner.jpeg",
+      "bannerTitle": "PANEL-DESLIZANTE EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE PANEL DESLIZANTE",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tus paneles deslizantes a la medida perfecta."
+    },
+    {
+      "slug": "cortinas-panel-japones-deslizante",
+      "imageAlt": "cortinas panel japones deslizante | Blinds Company",
+      "bannerImage": "../../images/promo/panel/banner.jpeg",
+      "bannerTitle": "CORTINAS PANEL JAPONES DESLIZANTE",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS PANEL JAPONES DESLIZANTE",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tus cortinas panel japones deslizante a la medida perfecta."
+    },
+    {
+      "slug": "mallas-de-seguridad",
+      "imageAlt": "Mallas de seguridad | Blinds Company",
+      "bannerImage": "../../images/promo/malla/banner.jpg",
+      "bannerTitle": "MALLAS DE SEGURIDAD EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE MALLAS DE SEGURIDAD",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tus Mallas de seguridad a la medida perfecta."
+    },
+    {
+      "slug": "mallas-para-balcones",
+      "imageAlt": "Mallas para balcones | Blinds Company",
+      "bannerImage": "../../images/promo/malla/banner.jpg",
+      "bannerTitle": "MALLAS PARA BALCONES EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE MALLAS PARA BALCONES",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tus Mallas para balcones a la medida perfecta."
+    },
+    {
+      "slug": "shutters",
+      "imageAlt": "Shutters | Blinds Company",
+      "bannerImage": "../../images/promo/shutters/banner.jpg",
+      "bannerTitle": "SHUTTERS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE SHUTTERS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a medir tu Shutter a la medida perfecta."
+    },
+    {
+      "slug": "cortinas-verticales",
+      "imageAlt": "Cortinas Verticales | Blinds Company",
+      "bannerImage": "../../images/promo/cortinas verticales/banner.jpeg",
+      "bannerTitle": "CORTINAS VERTICALES EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS VERTICALES",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas verticales."
+    },
+    {
+      "slug": "cortinas-de-visillo",
+      "imageAlt": "Cortinas de Visillo | Blinds Company",
+      "bannerImage": "../../images/promo/visillos/banner.jpeg",
+      "bannerTitle": "CORTINAS DE VISILLO EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS VISILLO",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas de visillo."
+    },
+    {
+      "slug": "cortinas-ondas-perfectas",
+      "imageAlt": "cortinas ondas perfectas | Blinds Company",
+      "bannerImage": "../../images/promo/visillos/banner.jpeg",
+      "bannerTitle": "CORTINAS ONDAS PERFECTAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS ONDAS PERFECTAS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas ondas perfectas."
+    },
+    {
+      "slug": "cortinas-hoteleras",
+      "imageAlt": "cortinas hoteleras | Blinds Company",
+      "bannerImage": "../../images/promo/visillos/banner.jpeg",
+      "bannerTitle": "CORTINAS HOTELERAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS HOTELERAS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas hoteleras."
+    },
+    {
+      "slug": "cortinas-de-riel-hotelero",
+      "imageAlt": "cortinas de riel hotelero | Blinds Company",
+      "bannerImage": "../../images/promo/visillos/banner.jpeg",
+      "bannerTitle": "CORTINAS DE RIEL HOTELERO EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS RIPPLEFOLD",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas de riel hotelero."
+    },
+    {
+      "slug": "cortinas-ripplefold",
+      "imageAlt": "cortinas ripplefold | Blinds Company",
+      "bannerImage": "../../images/promo/visillos/banner.jpeg",
+      "bannerTitle": "CORTINAS RIPPLEFOLD EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS RIPPLEFOLD",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas ripplefold."
+    },
+    {
+      "slug": "cortinas-modernas",
+      "imageAlt": "Cortinas Modernas | Blinds Company",
+      "bannerImage": "../../images/promo/cortinas/banner.jpg",
+      "bannerTitle": "CORTINAS MODERNAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS MODERNAS",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas modernas."
+    },
+    {
+      "slug": "roman-shade",
+      "imageAlt": "Roman Shade | Blinds Company",
+      "bannerImage": "../../images/promo/roman shade/banner.jpeg",
+      "bannerTitle": "ROMAN SHADE EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE ROMAN SHADE",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus roman modernas."
+    },
+    {
+      "slug": "toldo-palillero",
+      "imageAlt": "Toldo Palillero | Blinds Company",
+      "bannerImage": "../../images/promo/palilleria/banner.jpg",
+      "bannerTitle": "TOLDO PALILLERO EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE TOLDO PALILLERO",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus toldos palilleros."
+    },
+    {
+      "slug": "palilleria",
+      "imageAlt": "Palilleria | Blinds Company",
+      "bannerImage": "../../images/promo/palilleria/banner.jpg",
+      "bannerTitle": "PALILLERIA EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE PALILLERIA",
+      "formText": "",
+      "infoTitle": "FELICES DE AYUDARTE",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus palillerias."
+    },
+    {
+      "slug": "cortinas-tachonadas",
+      "imageAlt": "CORTINAS TACHONADAS | Blinds Company",
+      "bannerImage": "../../images/promo/tachonadas/banner.jpeg",
+      "bannerTitle": "CORTINAS TACHONADAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS TACHONADAS",
+      "formText": "Si no tienes las medidas, completa este formulario y te llamaremos para agendar la cita para tus medidas. ¿Las medidas son fuera de Santo Domingo? No hay problema, solo un pequeño cargo adicional.",
+      "infoTitle": "",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas tachonadas."
+    },
+    {
+      "slug": "cortinas-venecianas",
+      "imageAlt": "CORTINAS VENECIANAS | Blinds Company",
+      "bannerImage": "../../images/promo/venecianas/banner.jpeg",
+      "bannerTitle": "CORTINAS VENECIANAS EN TODA REPUBLICA DOMINICANA",
+      "formTitle": "SOLICITA MEDICIÓN DE CORTINAS VENECIANAS",
+      "formText": "Si no tienes las medidas, completa este formulario y te llamaremos para agendar la cita para tus medidas. ¿Las medidas son fuera de Santo Domingo? No hay problema, solo un pequeño cargo adicional.",
+      "infoTitle": "",
+      "infoText": "Elige tus productos y proporciona tus medidas. Al aprobar, rectificamos tus medidas y detalles de instalación. Comunícate con nosotros en cualquiera de las siguientes vías y te ayudaremos a elegir la tela perfecta para tus cortinas venecianas."
+    },
+    {
+      "language":"en",
+      "slug": "curtain-store-in-dominican-republic",
+      "imageAlt": "CURTAIN STORE IN DOMINICAN REPUBLIC | Blinds Company",
+      "bannerImage": "../../images/promo/curtain-store/banner.jpeg",
+      "bannerTitle": "CURTAIN STORE IN DOMINICAN REPUBLIC",
+      "formTitle": "REQUEST MEASUREMENT FROM OUR CURTAIN STORE IN SANTO DOMINGO",
+      "formText": "Si no tienes las medidas, completa este formulario y te llamaremos para agendar la cita para tus medidas. ¿Las medidas son fuera de Santo Domingo? No hay problema, solo un pequeño cargo adicional.",
+      "infoTitle": "",
+      "infoText": "Choose your products and provide your measurements. Upon approval, we rectify your measurements and installation details. Contact our curtain store in santo domingo with one of the following options and we will help you choose and meassure the perfect fabric for your curtains."
+    },
+    {
+      "language":"en",
+      "slug": "curtain-store-in-santo-domingo",
+      "imageAlt": "CURTAIN STORE IN SANTO DOMINGO | Blinds Company",
+      "bannerImage": "../../images/promo/curtain-store/banner.jpeg",
+      "bannerTitle": "CURTAIN STORE IN SANTO DOMINGO",
+      "formTitle": "REQUEST MEASUREMENT FROM OUR CURTAIN STORE IN SANTO DOMINGO",
+      "formText": "Si no tienes las medidas, completa este formulario y te llamaremos para agendar la cita para tus medidas. ¿Las medidas son fuera de Santo Domingo? No hay problema, solo un pequeño cargo adicional.",
+      "infoTitle": "",
+      "infoText": "Choose your products and provide your measurements. Upon approval, we rectify your measurements and installation details. Contact our curtain store in santo domingo with one of the following options and we will help you choose and meassure the perfect fabric for your curtains."
+    }
+    
+    
+    
+  ]
+}

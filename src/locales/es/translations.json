@@ -1,0 +1,136 @@
+{
+    "promo-mobile-carousel": {
+        "title": "ALGUNOS DE NUESTROS {{productName}} INSTALADOS",
+        "title_male": "ALGUNOS DE NUESTROS {{productName}} INSTALADOS",
+        "title_female": "ALGUNOS DE NUESTRAS {{productName}} INSTALADAS"
+    },
+    "promo-carousel": {
+        "title": "ALGUNOS DE NUESTROS {{productName}} INSTALADOS",
+        "title_male": "ALGUNOS DE NUESTROS {{productName}} INSTALADOS",
+        "title_female": "ALGUNOS DE NUESTRAS {{productName}} INSTALADAS"
+    },
+    "promo-mobile-contact": {
+        "title": "CONTÁCTANOS",
+        "more-products":"¿QUIERES VER NUESTROS PRODUCTOS?",
+        "visit-us": "Visitanos para ver telas, mecanismos y productos terminados."
+    },
+    "promo-contact": {
+        "title": "CONTÁCTANOS",
+        "more-products":"¿QUIERES VER NUESTROS PRODUCTOS?",
+        "visit-us": "Visitanos para ver telas, mecanismos y productos terminados."
+    },
+    "promo-mobile-footer": {
+        "title": "PRODUCTOS",
+        "curtains": "Cortinas",
+        "perma": "Permas",
+        "blind": "Toldos",
+        "palilleria": "Palilleria",
+        "shutters": "Shutters",
+        "safety-nets": "Mallas de Seguridad",
+        "newsletter": "NEWSLETTER",
+        "subscribe": "Suscríbete si quieres mantenerte informado de novedades.",
+        "send": "ENVIAR",
+        "follow-us": "SIGUENOS EN LAS REDES",
+        "contact-us": "CONTÁCTANOS",
+        "questions": "Quieres cotizar, saber más o tienes alguna pregunta?",
+        "questions-contact": "CONTÁCTANOS"
+    },
+    "promo-footer": {
+        "title": "PRODUCTOS",
+        "curtains": "Cortinas",
+        "perma": "Permas",
+        "blind": "Toldos",
+        "palilleria": "Palilleria",
+        "shutters": "Shutters",
+        "safety-nets": "Mallas de Seguridad",
+        "newsletter": "NEWSLETTER",
+        "subscribe": "Suscríbete si quieres mantenerte informado de novedades.",
+        "send": "ENVIAR",
+        "follow-us": "SIGUENOS EN LAS REDES",
+        "contact-us": "CONTÁCTANOS",
+        "questions": "Quieres cotizar, saber más o tienes alguna pregunta?",
+        "questions-contact": "CONTÁCTANOS"
+    },
+    "promo-mobile-hero": {
+        "phone-contact": "Llamanos - ",
+        "whatsapp-contact": "Escríbenos - "
+    },
+    "promo-hero": {
+        "phone-contact": "Llamanos ",
+        "whatsapp-contact": "Escríbenos "
+    },
+    "promo-mobile-steps": {
+        "title": "TUS {{productName}} FÁCIL Y RAPIDO",
+        "contact": "1. CONTÁCTANOS",
+        "contact-description": "Llamanos, escríbenos via mail o whatsapp y te asesoraremos en el proceso.",
+        "quote": "2. COTIZA TUS MEDIDAS",
+        "quote-description": "Proporcione tus medidas o agendemos una visita para medir y cotizar tus medidas.",
+        "manufacturing": "3. FABRICACIÓN",
+        "manufacturing-description": "De aprobar el presupuesto, fabricamos tus productos dentro de 5 a 7 dias laborales.",
+        "install": "4. INSTALACIÓN",
+        "install-description": "Instalaremos tus productos pendientes a cada detalle, en perfecto orden y limpieza"
+    },
+    "promo-steps": {
+        "title": "TUS {{productName}} FÁCIL Y RAPIDO",
+        "contact": "1. CONTÁCTANOS",
+        "contact-description": "Llamanos, escríbenos via mail o whatsapp y te asesoraremos en el proceso.",
+        "quote": "2. COTIZA TUS MEDIDAS",
+        "quote-description": "Proporcione tus medidas o agendemos una visita para medir y cotizar tus medidas.",
+        "manufacturing": "3. FABRICACIÓN",
+        "manufacturing-description": "De aprobar el presupuesto, fabricamos tus productos dentro de 5 a 7 dias laborales.",
+        "install": "4. INSTALACIÓN",
+        "install-description": "Instalaremos tus productos pendientes a cada detalle, en perfecto orden y limpieza"
+    },
+    "promo-mobile-header": {
+        "joint": "Empates Termo-soldados",
+        "hilti":"Instalación con Hilti",
+        "ultrasonic-cutter":"Corte Ultrasónico",
+        "milimetric-machine":"Máquina de medida milimétrica",
+        "modular-components":"Componentes Modulares",
+        "dutch-products":"Productos Holandeses"
+    },
+    "promo-header": {
+        "joint": "Empates Termo-soldados",
+        "hilti":"Instalación con Hilti",
+        "ultrasonic-cutter":"Corte Ultrasónico",
+        "milimetric-machine":"Máquina de medida milimétrica",
+        "modular-components":"Componentes Modulares",
+        "dutch-products":"Productos Holandeses",
+        "visit-us": "VISITE NUESTRA TIENDA",
+        "contact-us":"CONTÁCTANOS"
+    },
+    "promo-phone-action": {
+        "contact-us": "Contáctanos por Teléfono"
+    },
+    "promo-whatsapp-action": {
+        "contact-us": "Contáctanos en Whatsapp"
+    },
+    "promo-email-form": {
+        "title": "SOLICITA MEDICIÓN PROFESIONAL",
+        "description": "Si no tienes las medidas, completa este formulario y te llamaremos para agendar la cita para tus medidas. ¿Las medidas son fuera de Santo Domingo? No hay problema, solo un pequeño cargo adicional.",
+        "firstName": "Nombre",
+        "lastName": "Apellido",
+        "building": "Edificio/Local",
+        "apartment": "Apartamento",
+        "address": "Dirección",
+        "province": "Provincia",
+        "reference": "Referencia - Al frente del parque, etc...",
+        "email": "Correo",
+        "phone": "Teléfono",
+        "motive": "Motivo Visita - Medir cortinas, etc...",
+        "notes": "Notas - ¿Alguna preferencia en la vía de contacto?, etc...",
+        "send": "SOLICITAR MEDIDAS GRATIS"
+    },
+    "promo-mobile-contact-page": {
+        "phone": "teléfono",
+        "email":"Mail",
+        "visit-us":"visitános",
+        "whatsapp":"whatsapp"
+    },
+    "promo-contact-page": {
+        "phone": "teléfono",
+        "email":"Mail",
+        "visit-us":"visitános",
+        "whatsapp":"whatsapp"
+    }
+}

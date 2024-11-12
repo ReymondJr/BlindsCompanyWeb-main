@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d5cec7;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 9px;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="350.469" cy="350.469" r="349.469"/>
+  <path id="Color_Fill_5" data-name="Color Fill 5" class="cls-2" d="M237.79,356.178c0-27.85,41.184-46.724,41.184-76.192,0-22.608-35.316-63.836-55.6-63.836-19.651,0-61.847,42.659-61.847,73.113,0,89.86,100.857,254.305,224.526,254.305,37.767,0,76.192-40.877,76.192-55.6,0-21.584-43.083-59.718-61.777-59.718-23.58,0-50.445,28.829-70.014,28.829C300.263,457.08,237.79,380.963,237.79,356.178Z"/>
+  <path class="cls-3" d="M385,156c82.256,0,153,63.777,153,158"/>
+  <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-3" d="M385,199.662c59.525,0,110.719,46.153,110.719,114.338"/>
+  <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-3" d="M383.278,245.132c36.75,0,68.356,28.494,68.356,70.59"/>
+</svg>

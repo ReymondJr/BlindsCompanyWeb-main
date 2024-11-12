@@ -1,0 +1,561 @@
+{
+  "products": [
+    {
+      "slug": "cortinas-de-visillo-modernas",
+      "heroTitle": "CORTINAS DE VISILLO MODERNAS",
+      "heroBanner": "../../images/productsLandingPage/visillo/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR CORTINAS DE VISILLO MODERNAS?",
+      "imageAlt": "CORTINAS DE VISILLO MODERNAS | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/visillo/content/1.jpeg",
+          "title": "ELECCION PREFERIDA EN HOTELES Y HOGARES",
+          "callToAction": "",
+          "description": "En la industria de la decoración, particularmente en hoteles y diseño interior, la elección entre cortinas ripple fold y tachonadas es común, cada una ofreciendo distintas ventajas. La decisión sobre el estilo más adecuado para una propiedad depende de varios factores incluyendo costo, practicidad, durabilidad y preferencia estilística. Para tomar una decisión informada, es crucial revisar las características de cada tipo de cortina y considerar cuál se alinea mejor con las necesidades y el ambiente deseado."
+        },
+        {
+          "image": "../../images/productsLandingPage/visillo/content/2.jpeg",
+          "title": "CORTINAS ONDA PERFECTA O RIPPLE FOLD ",
+          "callToAction": "MÁS SOBRE CORTINAS RIPPLE FOLD",
+          "description": "Las cortinas de ondas perfectas o ripple fold se destacan por su diseño de un solo panel continuo, enriquecido con broches en el dobladillo superior que, al unirse a los herrajes, forman un distintivo estilo en \"S\", ofreciendo la percepción de una ventana más amplia. Este diseño no solo aporta elegancia sino que también implica un costo adicional, siendo aproximadamente un 20% más costoso que el modelo Tachonado, debido a la sofisticación de sus componentes y el proceso de instalación."
+        },
+        {
+          "image": "../../images/productsLandingPage/visillo/content/3.jpeg",
+          "title": "CORTINAS TACHONADAS O CORTINAS CON TACHONES",
+          "callToAction": "MÁS SOBRE CORTINAS TACHONADAS",
+          "description": "Las cortinas Tachonadas, o pliegue francés, se caracterizan por su sencillez y prevalencia en la industria hotelera, constituyendo una de las opciones más accesibles. Este estilo se forma agrupando tres pliegues de tela a intervalos determinados y asegurándolos a una distancia de 4 pulgadas de la parte superior del panel, lo que resulta en un destello distintivo en su inicio y un pliegue más relajado a lo largo de la cortina. Su popularidad también se debe a su asequibilidad en comparación con otras opciones."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/visillo/gallery/1.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/visillo/gallery/2.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/visillo/gallery/3.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/visillo/gallery/4.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/visillo/gallery/5.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "cortinas-enrollables",
+      "heroTitle": "CORTINAS ENROLLABLES",
+      "heroBanner": "../../images/productsLandingPage/roller/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR CORTINAS ENROLLABLES?",
+      "imageAlt": "CORTINAS ENROLLABLES | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/roller/content/1.jpeg",
+          "title": "FAVORITA MUNDIAL DE TODOS LOS TIEMPOS",
+          "callToAction": "",
+          "description": "Con sus infinitas posibilidades en cuanto a estilo y funcionalidad, las cortinas enrollables son el producto de sombreado más popular del mundo. Las cortinas enrollables tienen componentes modulares que están diseñados para una excelente óptica y fácil manejo. Esto hace de este sistema el más popular y practico en cualquier espacio. Con opciones manuales o motorizadas fabricamos las cortinas enrollables a la medida"
+        },
+        {
+          "image": "../../images/productsLandingPage/roller/content/2.jpeg",
+          "title": "CORTINAS ENROLLABLES TRASLUCIDAS",
+          "callToAction": "MÁS SOBRE CORTINAS ENROLLABLES TRASLUCIDAS",
+          "description": "Una cortina enrollable traslúcida, cuando está cerrada, difunde suavemente la luz por toda la habitación, proporcionando un brillo suave y cálido. Para encontrar el equilibrio entre la visibilidad y el bloqueo de la luz, debemos basarnos en el porcentaje de apertura de la tela, también conocido como opacidad. Este porcentaje se refiere a la cantidad de luz que deja pasar la cortina enrollable. Cuanto menor sea el porcentaje, más luz bloqueará la cortina enrollable y menos visibilidad ofrecerá. Las opciones oscilan entre el 1%, 3%, 5% y 10%, siendo el 5% la elección más popular de los clientes para cortinas enrollables en Santo Domingo."
+        },
+        {
+          "image": "../../images/productsLandingPage/roller/content/3.jpeg",
+          "title": "CORTINAS ENROLLABLES BLACKOUT",
+          "callToAction": "MÁS SOBRE CORTINAS ENROLLABLES BLACKOUT",
+          "description": "Para alcanzar una completa oscuridad en sus espacios, la solución perfecta son las cortinas enrollables blackout. Estas están confeccionadas con capas de vinilo y fibra de vidrio o poliéster, materiales que garantizan la obstrucción total de la luz. Resultan ser esenciales en ambientes como salas multimedia, estudios y dormitorios, o cualquier área donde se busque eliminar la luz exterior por completo, proporcionando así el ambiente ideal para actividades que requieren de una oscuridad absoluta."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/1.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/2.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/3.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/4.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/5.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/6.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/7.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/8.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roller/gallery/9.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "cortinas-perma",
+      "heroTitle": "CORTINAS PERMA",
+      "heroBanner": "../../images/productsLandingPage/perma/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR CORTINAS PERMA?",
+      "imageAlt": "CORTINAS PERMA | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/perma/content/1.png",
+          "title": "BELLEZA COMODIDAD Y PROTECCION PARA ESPACIOS EXTERIORES",
+          "callToAction": "",
+          "description": "La adición de cortinas no solo agrega un hermoso elemento de diseño, sino que también hacen los patios, terrazas gazebos y balcones más habitables y acogedores mientras dispersa el calor y controla los insectos. La privacidad contra vecinos curiosos, la protección contra el viento y el polvo, el bloqueo de los dañinos rayos UV, la protección contra la lluvia y el bajo mantenimiento por su fácil cuidado hacen que las cortinas permas en santo domingo sean tan populares."
+        },
+        {
+          "image": "../../images/productsLandingPage/perma/content/2.jpeg",
+          "title": "CORTINAS PERMAS CON CABLE",
+          "callToAction": "MÁS SOBRE CORTINAS PERMA CON CABLE",
+          "description": "Las cortinas permas con cable destacan por su revolucionario sistema que ofrece una flexibilidad excepcional, permitiendo ajustes precisos de apertura con facilidad y sin necesidad de enganche manual. Esta característica las hace perfectas para la automatización, incorporando modernidad y comodidad en diversos espacios. Su diseño adaptable y la posibilidad de control mediante dispositivos inteligentes mejoran la eficiencia energética y el bienestar en ambientes residenciales y comerciales, haciendo de las Droppy una solución óptima para el control de luz y ventilación."
+        },
+        {
+          "image": "../../images/productsLandingPage/perma/content/3.jpeg",
+          "title": "CORTINAS PERMAS CON GANCHOS",
+          "callToAction": "MÁS SOBRE CORTINAS PERMA CON GANCHOS",
+          "description": "Las cortinas permas con gancho ofrecen seguridad y estabilidad mediante un sistema de gancho que fija el perfil al suelo o pared, impidiendo que la brisa las desplace. Aseguran un entorno tranquilo y protegido, combinando funcionalidad y estética para disfrutar plenamente de espacios exteriores sin preocupaciones. Son mas populares debido a su costo accesible, sin embargo, a diferencia de las cableadas deben estar completamente abiertas o cerradas, ya que sin anclaje, el viento puede mover el marco, lo que podría golpear algo o alguien."
+        }
+      ],
+      "gallery": []
+    },
+    {
+      "slug": "cortinas-venecianas",
+      "heroTitle": "CORTINAS VENECIANAS",
+      "heroBanner": "../../images/productsLandingPage/venecianas/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR CORTINAS VENECIANAS?",
+      "imageAlt": "CORTINAS VENECIANAS | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/venecianas/banner.jpeg",
+          "title": "FUNCIONALIDAD CON ESTILO",
+          "callToAction": "",
+          "description": "Las cortinas venecianas tienen una habilidad de difundir y bloquear la luz en diferente grados como solo la cortina veneciana puede. Su gran variedad de materiales y colores, las lamas duraderas entre otras características son las que hacen las cortinas venecianas tan populares. La luz y privacidad se puede regular mediante una cuerda que gira las lamas hasta 90 grados para elegir la luz deseada. Las lamas de la cortina veneciana se apilan al subir y vuelven a la posición original sin perder su forma por la alta resistencia y propiedades no deformables y vienen en Madera, PVC y Aluminio."
+        },
+        {
+          "image": "../../images/productsLandingPage/venecianas/content/2.jpeg",
+          "title": "CORTINAS VENECIANAS DE ALUMINIO",
+          "callToAction": "MÁS SOBRE CORTINAS VENECIANAS DE ALUMINIO",
+          "description": "Las cortinas venecianas de aluminio destacan en el mercado por su durabilidad y versatilidad. Este tipo de persianas, con un grosor de 25mm, son excepcionalmente resistentes al agua, lo que las hace ideales para ambientes húmedos como baños, cocinas y lavanderías. Además, su robustez y estilo las convierten en una elección popular para oficinas, aportando un toque de elegancia y practicidad. Su material permite una larga vida útil y un mantenimiento sencillo, ofreciendo una solución estética y funcional para cualquier espacio."
+        },
+        {
+          "image": "../../images/productsLandingPage/venecianas/content/3.jpeg",
+          "title": "CORTINAS VENECIANAS DE MADERA",
+          "callToAction": "MÁS SOBRE CORTINAS VENECIANAS DE MADERA",
+          "description": "Las cortinas venecianas de madera, conocidas por su belleza inigualable, son ideales para espacios como dormitorios, oficinas, o salas de estar, gracias a su apariencia cálida y natural. Sin embargo, esta opción requiere de cuidados especiales debido a su sensibilidad al agua. El contacto con la humedad puede provocar que las vetas de la madera se hinchen, resultando en una deformación y debilitamiento de las lamas, que tienen un ancho estándar de 50mm, comprometiendo su durabilidad y funcionalidad."
+        },
+        {
+          "image": "../../images/productsLandingPage/venecianas/content/4.jpeg",
+          "title": "CORTINAS VENECIANAS DE PVC",
+          "callToAction": "MÁS SOBRE CORTINAS VENECIANAS DE PVC",
+          "description": "Para áreas propensas a la humedad o cocinas, las cortinas venecianas de PVC son ideales debido a su capacidad para resistir la humedad y el contacto directo con el agua, superando así a las alternativas de madera tradicional. Estas cortinas no solo ofrecen la estética cálida y natural de la madera, sino que también combinan la durabilidad del aluminio a un costo más accesible. Con un grosor de lama de 50mm, representan una solución práctica y estética para entornos húmedos."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/1.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/2.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/3.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/4.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/5.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/6.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/7.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/8.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/venecianas/gallery/9.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "cortinas-verticales",
+      "heroTitle": "CORTINAS VERTICALES",
+      "heroBanner": "../../images/productsLandingPage/vertical/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR CORTINAS VERTICALES?",
+      "imageAlt": "CORTINAS VERTICALES | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/vertical/content/1.jpeg",
+          "title": "SIMPLICIDAD LIMPIA",
+          "callToAction": "",
+          "description": "Las cortinas verticales son una opción versátil y estilizada para controlar la luz y privacidad en cualquier espacio. Su diseño permite ajustes precisos, haciéndolas ideales para oficinas y hogares. Ofrecen una amplia variedad de materiales y colores, adaptándose a diferentes estilos decorativos. Son especialmente adecuadas para puertas corredizas y ventanas grandes, aportando elegancia y funcionalidad."
+        },
+        {
+          "image": "../../images/productsLandingPage/vertical/content/2.jpeg",
+          "title": "CORTINAS VERTICALES TRASLUCIDAS",
+          "callToAction": "MÁS SOBRE CORTINAS VERTICALES TRASLUCIDAS",
+          "description": "Una cortina verticales traslúcida, cuando está cerrada, difunde suavemente la luz por toda la habitación, proporcionando un brillo suave y cálido. Para encontrar el equilibrio entre la visibilidad y el bloqueo de la luz, debemos basarnos en el porcentaje de apertura de la tela, también conocido como opacidad. Este porcentaje se refiere a la cantidad de luz que deja pasar la cortina vertical. Cuanto menor sea el porcentaje, más luz bloqueará la cortina vertical y menos visibilidad ofrecerá. Las opciones oscilan entre el 1%, 3%, 5% y 10%, siendo el 5% la elección más popular de los clientes para cortinas verticales en Santo Domingo."
+        },
+        {
+          "image": "../../images/productsLandingPage/vertical/content/3.jpeg",
+          "title": "CORTINAS VERTICALES BLACKOUT",
+          "callToAction": "MÁS SOBRE CORTINAS VERTICALES BLACKOUT",
+          "description": "Para alcanzar una completa oscuridad en sus espacios, la solución perfecta son las cortinas verticales blackout. Estas están confeccionadas con capas de vinilo y fibra de vidrio o poliéster, materiales que garantizan la obstrucción total de la luz. Resultan ser esenciales en ambientes como salas multimedia, estudios y dormitorios, o cualquier área donde se busque eliminar la luz exterior por completo, proporcionando así el ambiente ideal para actividades que requieren de una oscuridad absoluta."
+        },
+        {
+          "image": "../../images/productsLandingPage/vertical/banner.jpeg",
+          "title": "SIMPLICIDAD LIMPIA",
+          "callToAction": "MÁS SOBRE CORTINAS VERTICALES",
+          "description": "Las cortinas verticales son una opción versátil y estilizada para controlar la luz y privacidad en cualquier espacio. Su diseño permite ajustes precisos, haciéndolas ideales para oficinas y hogares. Ofrecen una amplia variedad de materiales y colores, adaptándose a diferentes estilos decorativos. Son especialmente adecuadas para puertas corredizas y ventanas grandes, aportando elegancia y funcionalidad."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/vertical/gallery/1.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/vertical/gallery/2.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/vertical/gallery/3.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/vertical/gallery/4.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "cortinas-zebra",
+      "heroTitle": "CORTINAS ZEBRA",
+      "heroBanner": "../../images/productsLandingPage/zebra/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR CORTINAS ZEBRA?",
+      "imageAlt": "CORTINAS ZEBRA | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/zebra/content/1.webp",
+          "title": "MAXIMA LUZ Y PRIVACIDAD",
+          "callToAction": "",
+          "description": "Con las cortinas zebra, personaliza completamente la iluminación, vista y privacidad de tu espacio. Su diseño de doble capa, con franjas opacas y translúcidas, te permite ajustar las persianas al ángulo deseado, controlando así la entrada de luz y nivel de privacidad según necesites. Disponibles en una amplia variedad de opciones de filtrado de luz y oscurecimiento total, estas cortinas ofrecen una flexibilidad y adaptabilidad sin igual, permitiéndote crear el ambiente perfecto en cualquier momento."
+        },
+        {
+          "image": "../../images/productsLandingPage/zebra/content/2.jpeg",
+          "title": "CORTINAS ZEBRA TRASLUCIDAS",
+          "callToAction": "MÁS SOBRE CORTINAS ZEBRA TRASLUCIDAS",
+          "description": "Aunque no cuentan con franjas blackout, las cortinas zebra translúcidas destacan por su habilidad para equilibrar el control de luz y privacidad, añadiendo un toque distintivo y sofisticado al ambiente. Su popularidad se debe en gran medida a cómo suavizan y difunden la luz natural, junto con la amplia gama de estilos disponibles que se adaptan a diferentes gustos y decoraciones, haciendo de estas cortinas una opción versátil y atractiva."
+        },
+        {
+          "image": "../../images/productsLandingPage/zebra/content/3.jpeg",
+          "title": "CORTINAS ZEBRA BLACKOUT",
+          "callToAction": "MÁS SOBRE CORTINAS ZEBRA BLACKOUT",
+          "description": "Las bandas opacas en las cortinas zebra, especialmente diseñadas para el sistema blackout, son más anchas que las transparentes, optimizando así el control de la luz en el espacio. Aunque la estructura alterna de franjas translúcidas ofrece una regulación efectiva de la luz, es importante tener en cuenta que no se consigue un bloqueo total de la luz debido a esta misma característica de diseño."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/1.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/2.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/3.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/4.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/5.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/6.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/7.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/8.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/9.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/zebra/gallery/10.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "mallas-de-seguridad",
+      "heroTitle": "MALLAS DE SEGURIDAD",
+      "heroBanner": "../../images/productsLandingPage/mallas de seguridad/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR MALLAS DE SEGURIDAD?",
+      "imageAlt": "MALLAS DE SEGURIDAD | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/mallas de seguridad/content/1.jpeg",
+          "title": "Haz tu espacio mas seguro sin obstruir la vista",
+          "callToAction": "",
+          "description": "¿Tienes niños o mascotas? Los beneficios de las mallas de seguridad son infinitos, evita que los niños o mascotas caigan o incluso que arrojen juguetes u otros objetos que podrían causar daños a un tercero y resiste hasta 240 libras, sin embargo, los hilos de monofilamento de nylon no afectan tu fachada al ser prácticamente invisible. Ideales para ventanas, balcones, escaleras y terraza."
+        },
+        {
+          "image": "../../images/productsLandingPage/mallas de seguridad/content/2.jpeg",
+          "title": "Beneficios de las mallas de seguridad",
+          "callToAction": "MÁS SOBRE CORTINAS ZEBRA TRASLUCIDAS",
+          "description": "Seguridad para niños: Las redes a prueba de niños brindan tranquilidad a los adultos mientras que los niños permanecen libres de cuidados.\n\nSeguridad para mascotas: Aseguran los espacios abiertos que representen una amenaza para sus mascotas.\n\nNo distorsiona la vista: Nuestras redes no perturban la agradable apariencia de tu vista.\n\nControl de plaga: Una solución limpia y eficaz para eliminar las palomas de su hogar u oficina."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/mallas de seguridad/gallery/1.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "palilleria",
+      "heroTitle": "PALILLERIA",
+      "heroBanner": "../../images/productsLandingPage/palilleria/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR PALILLERIA?",
+      "imageAlt": "PALILLERIA | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/palilleria/content/1.jpeg",
+          "title": "TU HOGAR ES DONDE TE SIENTES COMODO",
+          "callToAction": "",
+          "description": "En la calurosa Republica Dominicana muchas personas pierden el entusiasmo de pasar tiempo al aire libre porque el calor es demasiado. Los toldos palilleros no solo crean un hermoso refugio protegido del sol, también expande tu espacio útil al aire libre donde las familias y los amigos pueden relajarse y disfrutar. Por esto la palilleria se ha convertido en el compañero perfecto de las terrazas y jardines y la solución contra el sol preferida por los diseñadores."
+        },
+        {
+          "image": "../../images/productsLandingPage/palilleria/content/2.jpeg",
+          "title": "ELEMENTOS DE UNA PALILLERIA",
+          "callToAction": "MÁS SOBRE ELEMENTOS DE UNA PALILLERIA",
+          "description": "Las palillerías, combinan tres elementos clave para ofrecer una solución de sombreado elegante y práctica: una estructura de pérgola, que puede estar fabricada de madera, aluminio o acero y se adapta a diversos entornos arquitectónicos; tela, que proporciona protección contra el sol y la lluvia ligera, disponible en una variedad de colores y texturas para personalización; y un sistema de manejo que puede ser una sencilla soga para operación manual o un motor automatizado para mayor comodidad, facilitando la extensión o retracción del toldo."
+        },
+        {
+          "image": "../../images/productsLandingPage/palilleria/content/3.jpg",
+          "title": "INTEGRACION EN ESTRUCTURAS EXISTENTES",
+          "callToAction": "MÁS SOBRE ESTRUCTURAS DE PALILLERIA",
+          "description": "Adaptar una palillería a estructuras ya existentes implica una evaluación minuciosa de la estructura de soporte, eligiendo puntos de anclaje seguros y materiales compatibles para garantizar una integración estética y funcional. La instalación debe planificarse cuidadosamente para adaptarse a la estructura preexistente, lo cual puede requerir modificaciones menores que aseguren una fijación segura y una operación fluida del toldo palillero, logrando así una solución de sombreado que mejore tanto la funcionalidad como el diseño del espacio exterior."
+        }
+      ],
+      "gallery": []
+    },
+    {
+      "slug": "panel-deslizante",
+      "heroTitle": "PANEL DESLIZANTE",
+      "heroBanner": "../../images/productsLandingPage/panel/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR PANEL DESLIZANTE?",
+      "imageAlt": "PANEL DESLIZANTE | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/panel/content/1.jpeg",
+          "title": "MODERNO, FUNCIONAL Y VERSATIL",
+          "callToAction": "",
+          "description": "Los paneles deslizantes, también conocidos como paneles japoneses, representan una solución elegante y moderna para la decoración de ventanas y la división de espacios. Estos paneles, que se deslizan suavemente a lo largo de un riel, permiten un control eficaz de la luz y ofrecen una estética minimalista que complementa cualquier diseño interior. Son ideales para grandes ventanales, puertas de vidrio y como separadores de ambientes, aportando un toque de sofisticación y funcionalidad a tu hogar u oficina."
+        },
+        {
+          "image": "../../images/productsLandingPage/panel/content/2.jpeg",
+          "title": "PANEL DESLIZANTE TRASLUCIDO",
+          "callToAction": "MÁS SOBRE PANEL DESLIZANTE TRASLUCIDO",
+          "description": "Una panel deslizante traslúcido, cuando está cerrado, difunde suavemente la luz por toda la habitación, proporcionando un brillo suave y cálido. Para encontrar el equilibrio entre la visibilidad y el bloqueo de la luz, debemos basarnos en el porcentaje de apertura de la tela, también conocido como opacidad. Este porcentaje se refiere a la cantidad de luz que deja pasar el panel deslizante. Cuanto menor sea el porcentaje, más luz bloqueará el panel deslizante y menos visibilidad ofrecerá. Las opciones oscilan entre el 1%, 3%, 5% y 10%, siendo el 5% la elección más popular de los clientes para paneles deslizantes en Santo Domingo."
+        },
+        {
+          "image": "../../images/productsLandingPage/panel/content/3.jpeg",
+          "title": "PANEL DESLIZANTE BLACKOUT",
+          "callToAction": "MÁS SOBRE PANEL DESLIZANTE BLACKOUT",
+          "description": "Para alcanzar una completa oscuridad en sus espacios, la solución perfecta son los paneles deslizante blackout. Estas están confeccionadas con capas de vinilo y fibra de vidrio o poliéster, materiales que garantizan la obstrucción total de la luz. Resultan ser esenciales en ambientes como salas multimedia, estudios y dormitorios, o cualquier área donde se busque eliminar la luz exterior por completo, proporcionando así el ambiente ideal para actividades que requieren de una oscuridad absoluta."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/panel/gallery/1.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/panel/gallery/2.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "roman-shade",
+      "heroTitle": "ROMAN SHADE",
+      "heroBanner": "../../images/productsLandingPage/roman/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR ROMAN SHADE?",
+      "imageAlt": "ROMAN SHADE | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/roman/content/1.jpeg",
+          "title": "ELEGANCIA Y CONVENIENCIA",
+          "callToAction": "",
+          "description": "Las cortinas Roman Shades, con su diseño elegante y funcional, ofrecen una solución decorativa y práctica para el control de la luz en cualquier espacio. Perfectas para añadir un toque de sofisticación, se pliegan en secciones horizontales suaves cuando se levantan, creando un aspecto visualmente atractivo. Su versatilidad en materiales y estilos las hace ideales para complementar tanto interiores modernos como tradicionales, brindando no solo privacidad sino también un aislamiento térmico eficaz."
+        },
+        {
+          "image": "../../images/productsLandingPage/roman/content/2.jpeg",
+          "title": "ROMAN SHADES TRASLUCIDA",
+          "callToAction": "MÁS SOBRE ROMAN SHADES TRASLUCIDA",
+          "description": "Una Roman Shade traslúcida, cuando está cerrada, difunde suavemente la luz por toda la habitación, proporcionando un brillo suave y cálido. Para encontrar el equilibrio entre la visibilidad y el bloqueo de la luz, debemos basarnos en el porcentaje de apertura de la tela, también conocido como opacidad. Este porcentaje se refiere a la cantidad de luz que deja pasar la Roman shade. Cuanto menor sea el porcentaje, más luz bloqueará la Roman shade y menos visibilidad ofrecerá. Las opciones oscilan entre el 1%, 3%, 5% y 10%, siendo el 5% la elección más popular de los clientes para Roman shade en Santo Domingo."
+        },
+        {
+          "image": "../../images/productsLandingPage/roman/content/3.jpeg",
+          "title": "ROMAN SHADE BLACKOUT",
+          "callToAction": "MÁS SOBRE ROMAN SHADE BLACKOUT",
+          "description": "Para alcanzar una completa oscuridad en sus espacios, la solución perfecta son las cortinas Roman Shade blackout. Estas están confeccionadas con capas de vinilo y fibra de vidrio o poliéster, materiales que garantizan la obstrucción total de la luz. Resultan ser esenciales en ambientes como salas multimedia, estudios y dormitorios, o cualquier área donde se busque eliminar la luz exterior por completo, proporcionando así el ambiente ideal para actividades que requieren de una oscuridad absoluta."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/1.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/2.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/3.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/4.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/5.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/6.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/roman/gallery/7.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "shutters",
+      "heroTitle": "SHUTTERS",
+      "heroBanner": "../../images/productsLandingPage/shutters/banner.jpg",
+      "contactPrompt": "¿QUIERES COMPRAR SHUTTERS?",
+      "imageAlt": "SHUTTERS | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/shutters/content/1.jpg",
+          "title": "SEGURIDAD SIN MOLESTIA",
+          "callToAction": "",
+          "description": "Confort acústico, confort térmico, seguridad antibandalo y ciclónica. Los shutters son una de las inversiones más importantes para garantizar que el interior de un hogar o que un negocio permanezca protegido contra las tormentas destructivas. Por las altas tasas de criminalidad, altos niveles de decibeles y temporadas ciclónicas es que los shutters en Santo Domingo y Republica Dominicana se han vuelto tan popular."
+        },
+        {
+          "image": "../../images/productsLandingPage/shutters/content/2.jpg",
+          "title": "DURABILIDAD Y MANTENIMIENTO",
+          "callToAction": "MÁS SOBRE SHUTTERS",
+          "description": "Fabricados con materiales resistentes, los shutters están diseñados para soportar el desgaste del tiempo, resistiendo a factores como la humedad y los rayos UV sin perder color o forma. Comparados con otras opciones de tratamiento de ventanas, requieren un mantenimiento mínimo, siendo fácilmente limpiables con un paño húmedo, lo que los hace una opción duradera y de bajo mantenimiento."
+        },
+        {
+          "image": "../../images/productsLandingPage/shutters/content/3.jpg",
+          "title": "VIVE INTELIGENTE. DISFRUTA LA VIDA",
+          "callToAction": "MÁS SOBRE AUTOMATIZACION DE SHUTTERS",
+          "description": "La automatización de los shutters representa una conveniencia moderna que aporta significativas ventajas en comodidad, seguridad y eficiencia energética. Donde sea, como sea, permite a los usuarios ajustar y programar la apertura y cierre de los shutters con tan solo pulsar un botón o mediante una aplicación, y temporizadores facilitando el control preciso de la luz solar y la ventilación sin esfuerzo físico. Ademas, automatizar tus shutters es económico y conveniente."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/shutters/gallery/1.jpg"
+        },
+        {
+          "path": "../../images/productsLandingPage/shutters/gallery/2.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "soft-shutters",
+      "heroTitle": "SOFT SHUTTERS",
+      "heroBanner": "../../images/productsLandingPage/soft shutters/banner.jpg",
+      "contactPrompt": "¿QUIERES COMPRAR SOFT SHUTTERS?",
+      "imageAlt": "SOFT SHUTTERS | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/soft shutters/content/1.jpeg",
+          "title": "La Solución Integral para Espacios Exteriores",
+          "callToAction": "",
+          "description": "Los soft shutters emergen como una solución destacada para espacios exteriores como gazebos, terrazas y balcones. No solo ofrecen privacidad, sino que también brindan una barrera eficaz contra el sol, el viento, la lluvia y los insectos a lo largo de todo el año. Comparados con las opciones de toldos tradicionales, se presentan como una alternativa más funcional, segura y de mayor durabilidad, adaptándose perfectamente a las necesidades de protección y estilo de vida modernos."
+        },
+        {
+          "image": "../../images/productsLandingPage/soft shutters/content/2.webp",
+          "title": "Protección Total en Exteriores",
+          "callToAction": "MÁS SOBRE SOFT SHUTTERS",
+          "description": "Este sistema avanzado de toldos está diseñado para brindar protección integral en áreas exteriores, sellando completamente el espacio contra la entrada de polvo y suciedad. Es la solución perfecta para resguardarse del sol y evitar la incómoda presencia de mosquitos. Gracias a su innovador mecanismo de tensado, que emplea un canal flotante dentro de un canal lateral de dos piezas, se garantiza que la tela permanezca en su lugar sin dejar huecos, eliminando cualquier posibilidad de desajuste o espacios no deseados."
+        }
+      ],
+      "gallery": [
+      ]
+    },
+    {
+      "slug": "toldo-punto-recto",
+      "heroTitle": "TOLDO PUNTO RECTO",
+      "heroBanner": "../../images/productsLandingPage/toldo punto recto/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR TOLDO PUNTO RECTO?",
+      "imageAlt": "TOLDO PUNTO RECTO | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/toldo punto recto/content/1.jpeg",
+          "title": "Soluciones de Sombra Elegantes",
+          "callToAction": "",
+          "description": "Nuestros toldos punto recto de estilo italiano son la solución ideal para mantener a raya el sol y el calor, ofreciendo protección óptima para ventanas tanto en ambientes comerciales como en el hogar. Su diseño con brazos especiales les permite adaptarse perfectamente entre paredes, lo que los hace ideales para restaurantes y residencias. Además, estos toldos juegan un papel crucial en la reducción de la luz solar directa y el resplandor, protegiendo el interior contra el daño solar y promoviendo una mejora significativa en la eficiencia energética de los espacios."
+        },
+        {
+          "image": "../../images/productsLandingPage/toldo punto recto/content/2.webp",
+          "title": "PERFECTOS PARA VENTANAS",
+          "callToAction": "MÁS SOBRE TOLDO PUNTO RECTO",
+          "description": "Los toldos punto recto se destacan por su innovador diseño, el cual incluye un brazo ajustable que permite modificar el ángulo de inclinación de manera precisa, alcanzando posiciones que van desde completamente horizontales hasta prácticamente verticales. Esta característica única los hace especialmente aptos para una amplia gama de aplicaciones, adaptándose con particular eficacia entre paredes. Esta combinación de versatilidad hacen de estos toldos una solución excepcionalmente atractiva para quienes buscan mejorar su espacio exterior."
+        },
+        {
+          "image": "../../images/productsLandingPage/toldo punto recto/content/3.jpeg",
+          "title": "Toldos de Avanzada Tecnología",
+          "callToAction": "MÁS SOBRE LOS BRAZOS DE TOLDO PUNTO RECTO",
+          "description": "La extensión de los brazos laterales mejora significativamente la proyección angular del toldo, generando una bolsa de aire más amplia que optimiza su eficiencia. Esto no solo facilita la entrada de aire fresco para refrescar y ventilar el interior, sino que también bloquea el ingreso del calor. En su estado retraído, el toldo se mantiene protegido contra las inclemencias del tiempo gracias a una capota de aluminio blanco, asegurando su durabilidad a lo largo del año."
+        }
+      ],
+      "gallery": [
+        {
+          "path": "../../images/productsLandingPage/toldo punto recto/gallery/1.jpeg"
+        },
+        {
+          "path": "../../images/productsLandingPage/toldo punto recto/gallery/2.jpeg"
+        }
+      ]
+    },
+    {
+      "slug": "toldo-retractil",
+      "heroTitle": "TOLDO RETRACTIL",
+      "heroBanner": "../../images/productsLandingPage/toldo retractil/banner.jpeg",
+      "contactPrompt": "¿QUIERES COMPRAR TOLDO RETRACTIL?",
+      "imageAlt": "TOLDO RETRACTIL | Blinds Company",
+      "content": [
+        {
+          "image": "../../images/productsLandingPage/toldo retractil/content/1.jpeg",
+          "title": "EXTIENDE TU ESPACIO DE CONFORT",
+          "callToAction": "",
+          "description": "La instalación de un toldo retráctil proporciona la sombra y el aspecto para mantener tu espacio exterior más cómodo para disfrutar mientras protegen de los rayos UV y brindan confort térmico. No tener toldo retráctil puede hacer de una terraza o un patio completamente inutilizables, pero a veces también solo quieres dejar entrar el sol. Ahí es donde brilla el toldo retráctil: cuando no los necesites, simplemente guárdalos.\n\nLa temperatura y los repentinos cambios climáticos hacen que los toldos en santo domingo sean tan populares."
+        },
+        {
+          "image": "../../images/productsLandingPage/toldo retractil/content/2.jpeg",
+          "title": "TOLDOS RETRACTILES AVANZADOS",
+          "callToAction": "MÁS SOBRE TOLDO RETRACTIL",
+          "description": "Inclina desde 0° a 90° con una salida de hasta 3.60m. Crean ambientes llenos de personalidad, con posibilidades de automatización y sensores de sol y viento para una automatización perfecta y una larga vida útil. Además, los toldos retráctiles no interrumpirán el diseño de su espacio al aire libre. Cuando se extiende, es una adición atractiva. Cuando no está en uso, el toldo se oculta en una forma elegante."
+        },
+        {
+          "image": "../../images/productsLandingPage/toldo retractil/content/3.webp",
+          "title": "TELAS PARA TU TOLDO RETRACTIL",
+          "callToAction": "MÁS SOBRE TOLDO RETRACTIL",
+          "description": "Las telas para toldos retráctiles deben ser elegidas cuidadosamente, teniendo en cuenta la durabilidad, la resistencia al clima, la protección UV y el mantenimiento. Entre las opciones más populares se encuentran la lona acrílica acrílica teñida en masa, ideal por su resistencia a la decoloración y al moho; el poliéster con recubrimiento de PVC, conocido por su durabilidad y resistencia al agua; la malla de screen, que equilibra sombra y ventilación manteniendo la vista despejada; Estas telas varían en transpirabilidad, visibilidad, y estética, permitiendo personalizar el toldo para que se ajuste tanto a las necesidades funcionales como a las preferencias de diseño del espacio exterior."
+        }
+      ],
+      "gallery": [
+      ]
+    }
+  ]
+}
