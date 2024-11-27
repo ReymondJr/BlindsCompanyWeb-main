@@ -18,7 +18,7 @@ const CardGrid = ({ data, height = 450 }) => {
               <Link to={product.to}>
                 <GatsbyImage
                   className="relative z-0 w-full"
-                  style={{ height: `${height}px` }}
+                  style={{ height: `${height}px`, borderRadius: '5%' }}
                   image={product.img.childImageSharp.gatsbyImageData}
                   objectFit="fill"
                   alt={product.title}
@@ -31,7 +31,7 @@ const CardGrid = ({ data, height = 450 }) => {
                     marginBottom: "0.5rem",
                   }}
                 >
-                   <span className="with-arrow">
+                   <span className="with-arrow" style={{ color: "black", fontSize: "1.5rem" }}>
                     {product.title}
                    </span>
                   
@@ -45,21 +45,26 @@ const CardGrid = ({ data, height = 450 }) => {
             <div>
               <GatsbyImage
                 className="relative z-0 w-full"
-                style={{ height: `${height}px` }}
+                style={{ height: `${height}px`, borderRadius: "10%" }}
                 image={product.img.childImageSharp.gatsbyImageData}
                 objectFit="fill"
                 alt={product.title}
               />
-              <h3
-                style={{
-                  fontSize: "1.2rem",
-                  fontWeight: "bold",
-                  marginTop: "0.5rem",
-                  marginBottom: "0.5rem",
-                }}
-              >
-                {product.title}
-              </h3>
+            <h3 className="mt-3 font-normal arrow-container"
+                  style={{
+                    fontSize: "1.2rem",
+                    fontWeight: "bold",
+                    marginTop: "0.5rem",
+                    marginBottom: "0.5rem",
+                    cursor: "pointer",
+                  }}
+                >
+                   <span className="with-arrow" style={{ color: "black", fontSize: "1.5rem" }}>
+                    {product.title}
+                   </span>
+                  
+                  
+                </h3>
               <p>{product.content}</p>
             </div>
           );

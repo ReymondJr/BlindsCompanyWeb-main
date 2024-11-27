@@ -1,5 +1,5 @@
 import React from "react";
-import { useStaticQuery, graphql } from "gatsby";
+import { useStaticQuery, graphql, navigate } from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
 import Link from "../util/Link";
 import WhatsappIcon from "../icons/WhatsappIcon";
@@ -77,6 +77,20 @@ const Navbar = ({ removePaddings }) => {
     window.open(locationLink, "_blank");
   };
 
+  const currentPath = window.location.pathname.split('/').filter(Boolean);
+  const breadcrumbs = [
+    { name: "Home", url: "/" },
+    ...currentPath.map((path, index) => {
+      const url = `/${currentPath.slice(0, index + 1).join('/')}`;
+      const navItem = navigation.find(nav => nav.url === url);
+      return navItem ? { name: navItem.name, url } : { name: path, url };
+    }),
+  ];
+  const fullBreadcrumbs = breadcrumbs.map((crumb, index) => {
+    const url = `/${currentPath.slice(0, index + 1).join('/')}`;
+    return { name: crumb.name, url };
+  });
+
   return (
     <header className={`sticky top-0 bg-white border-b z-50 h-[85px]`}>
       <div className="container relative flex items-center justify-between h-full">
@@ -134,7 +148,22 @@ const Navbar = ({ removePaddings }) => {
                 );
               })}
             </ul>
+            <nav>
+            <ul className="flex justify-center space-x-2">
+                {fullBreadcrumbs.map((crumb, index) => (
+                  <li key={index}>
+                    <Link to={crumb.url} className="text-blue-600">
+                      {crumb.name}
+                    </Link>
+                    {index < fullBreadcrumbs.length - 1 && <span> {'>'} </span>}
+                  </li>
+                ))}
+              </ul>
+            </nav>
           </nav>
+
+         
+          
           <nav
             className={`pb-2 lg:pb-0 pr-0 ${
               removePaddings ? "" : "lg:mr-8 mr-2"
@@ -146,8 +175,10 @@ const Navbar = ({ removePaddings }) => {
               <FontAwesomeIcon icon={faLocationDot} />
             </IconText>
           </nav>
-        </div>
+       </div>
+        
       </div>
+      
     </header>
   );
 };

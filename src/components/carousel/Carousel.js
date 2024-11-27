@@ -30,6 +30,10 @@ const CustomDot = ({ onClick, index, active, setCurrentSlide }) => {
             className={`py-3 w-full cursor-pointer`}
             aria-label={`Ir al ítem ${index + 1}`}
             onClick={onClick}
+            style={{
+                paddingBottom: '30px',
+                position: 'relative'
+              }}
         >
             <div
                 className={`w-full h-0.5 bg-neutral-300 relative ${index === 0 ? 'index-dot' : ''}`}
@@ -44,10 +48,10 @@ const BlindsCarousel = ({ children }) => {
     return (
         <div
             className="relative pb-6 overflow-x-hidden carousel-container"
-            style={{ '--slide-percentage': `${currentSlide * 100}%` }}
+            style={{ '--slide-percentage': `${currentSlide * 100}%`, }}
             data-slides={children.length}
         >
-            <Carousel
+            {/* <Carousel
                 ref={ref}
                 renderButtonGroupOutside
                 arrows={true}
@@ -61,6 +65,23 @@ const BlindsCarousel = ({ children }) => {
                 itemClass="px-2"
                 dotListClass="!px-2"
                 partialVisible={true}
+            > */}
+
+<Carousel
+                ref={ref}
+                renderButtonGroupOutside
+                arrows={true}
+                ssr
+                responsive={responsive}
+                draggable={false}
+                infinite
+                renderDotsOutside={true}
+                showDots={true}
+                customDot={<CustomDot setCurrentSlide={setCurrentSlide} />}
+                itemClass="px-2"
+                dotListClass="!px-2"
+                partialVisible={true}
+                
             >
                 {children}
             </Carousel>

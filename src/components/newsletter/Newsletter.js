@@ -25,7 +25,7 @@ const Newsletter = ({ showText, darkButton }) => {
                             placeholder="E-mail"
                             className="rounded-none base-input !rounded-l flex-1 !inline-block max-w-[240px]"
                         />
-                        <button
+                        <button style={{ borderRadius: "50px" }}
                             className={`text-white ${
                                 darkButton ? 'bg-primary-800' : 'bg-primary-500'
                             } hover:bg-primary-900 py-1.5 px-3 rounded-r border border-primary-500`}

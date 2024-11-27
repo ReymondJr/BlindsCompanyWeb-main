@@ -9,10 +9,22 @@ import BlindsDotsCarousel from "../components/carousel/DotsCarousel";
 import MediaQuery from "react-responsive";
 import styled from "@emotion/styled";
 
+
 const HomepageButton = styled.button`
   color: black;
   padding: 0.5rem 2rem;
   border-radius: 10px;
+  border: 1px black solid;
+  &:hover {
+    background: black;
+    color: white;
+  }
+`;
+
+const RoundedButton = styled.button`
+  color: black;
+  padding: 0.5rem 2rem;
+  border-radius: 50px; // Cambiado a un borde más redondo
   border: 1px black solid;
   &:hover {
     background: black;
@@ -110,19 +122,20 @@ const IndexPage = ({ data }) => {
               </p>
               <Link
                 to="/nosotros"
-                style={{ position: "absolute", bottom: "3em" }}
+                style={{ position: "absolute", bottom: "1em" }}
               >
-                <HomepageButton>Más sobre nosotros</HomepageButton>
+                <RoundedButton>Mas Sobre nosotros</RoundedButton>
+                {/* <HomepageButton>Más sobre nosotros</HomepageButton> */}
               </Link>
             </div>
             <StaticImage
-              style={{ minWidth: "45%", height: "450px" }}
+              style={{ minWidth: "45%", height: "450px",borderRadius: "5%" }}
               src="../images/home/homepage2.jpg"
             />
           </MediaQuery>
           <MediaQuery query="(max-width: 995px)">
             <StaticImage
-              style={{ minWidth: "45%", height: "450px" }}
+              style={{ minWidth: "45%", height: "450px", borderRadius: "5%" }}
               src="../images/home/homepage2.jpg"
             />
             <div
@@ -154,13 +167,16 @@ const IndexPage = ({ data }) => {
                 perfectas para tu balcón.
               </p>
               <Link to="/nosotros" style={{ marginTop: "2rem" }}>
-                <HomepageButton>Más sobre nosotros</HomepageButton>
+              <RoundedButton>Mas Sobre nosotros</RoundedButton>
+                {/* <HomepageButton>Más sobre nosotros</HomepageButton> */}
               </Link>
             </div>
           </MediaQuery>
         </div>
       </div>
       <CardGrid data={data.homepageJson.fabricsSection} height={300} />
+      {/* <PDFBook pdfFiles={pdfFiles} /> */}
+    
     </Layout>
   );
 };

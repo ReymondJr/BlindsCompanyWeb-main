@@ -74,26 +74,26 @@ const PromoFooter = ({ product }) => {
             <h4 style={{ fontSize: "24px", marginBottom: "10px" }}>
               {t("title")}
             </h4>
-            <div>
+            <div style={{ marginBottom: '8px' }}>
               <FooterLink to="/productos">{t("curtains")}</FooterLink>
             </div>
-            <div>
+            <div style={{ marginBottom: '8px' }}>
               <FooterLink to="/producto-cortinas-perma">
                 {t("perma")}
               </FooterLink>
             </div>
-            <div>
+            <div style={{ marginBottom: '8px' }}>
               <FooterLink to="/productos">{t("blind")}</FooterLink>
             </div>
-            <div>
+            <div style={{ marginBottom: '8px' }}>
               <FooterLink to="/producto-palilleria">
                 {t("palilleria")}
               </FooterLink>
             </div>
-            <div>
+            <div style={{ marginBottom: '8px' }}>
               <FooterLink to="/producto-shutters">{t("shutters")}</FooterLink>
             </div>
-            <div>
+            <div style={{ marginBottom: '8px' }}>
               <FooterLink to="/producto-mallas-de-seguridad">
                 {t("safety-nets")}
               </FooterLink>
@@ -155,7 +155,7 @@ const PromoFooter = ({ product }) => {
               <input
                 class="appearance-none border rounded px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
                 type="text"
-                style={{ padding: "2px", marginTop: "15px", width: "75%" }}
+                style={{ padding: "2px", marginTop: "15px", width: "75%", borderRadius: "px", }}
               />
             </div>
             <div>
@@ -164,6 +164,7 @@ const PromoFooter = ({ product }) => {
                   fontSize: "14",
                   marginTop: "10px",
                   marginBottom: "20px",
+                  borderRadius: "50px",
                 }}
               >
                 {t("send")}
@@ -187,7 +188,7 @@ const PromoFooter = ({ product }) => {
                       : "/contacto-general"
                   )
                 }
-                style={{ fontSize: "14", marginTop: "15px" }}
+                style={{ fontSize: "14", marginTop: "15px", borderRadius: "50px" }}
               >
                 {t("questions-contact")}
               </BlackButton>

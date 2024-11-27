@@ -78,22 +78,22 @@ const PromoMobileFooter = ({product}) => {
           </div>
 
           <SmoothCollapse expanded={isProductsExpanded}>
-            <div>
+            <div style={{ marginBottom: '10px' }}>
               <Link to="/productos">{t('curtains')}</Link>
             </div>
-            <div>
+            <div style={{ marginBottom: '10px' }}>
               <Link to="/producto-cortinas-perma">{t('perma')}</Link>
             </div>
-            <div>
+            <div style={{ marginBottom: '10px' }}>
               <Link to="/productos">{t("blind")}</Link>
             </div>
-            <div>
+            <div style={{ marginBottom: '10px' }}>
               <Link to="/producto-palilleria">{t('palilleria')}</Link>
             </div>
-            <div>
+            <div style={{ marginBottom: '10px' }}>
               <Link to="/producto-shutters">{t('shutters')}</Link>
             </div>
-            <div>
+            <div style={{ marginBottom: '10px' }}>
               <Link to="/producto-mallas-de-seguridad">{t('safety-nets')}</Link>
             </div>
           </SmoothCollapse>
@@ -115,7 +115,7 @@ const PromoMobileFooter = ({product}) => {
             <input class="appearance-none border rounded px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" type="text" style={{ width: '50%', padding: '2px', marginTop: '15px' }} />
           </div>
           <div>
-            <BlackButton style={{ fontSize: '14', marginTop: '10px', marginBottom: '20px' }}>
+            <BlackButton style={{ fontSize: '14', marginTop: '10px', marginBottom: '20px', borderRadius: '49px'}}>
               {t('send')}
             </BlackButton>
           </div>
@@ -142,7 +142,7 @@ const PromoMobileFooter = ({product}) => {
             {t('questions')}
           </div>
           <div>
-            <BlackButton onClick={() => navigate(product?.slug?`/contacto-${product.slug}`:"/contacto-general")} style={{ fontSize: '14px', marginTop: '15px' }}>
+            <BlackButton onClick={() => navigate(product?.slug?`/contacto-${product.slug}`:"/contacto-general")} style={{ fontSize: '14px', marginTop: '15px', borderRadius: '49px' }}>
               {t('questions-contact')}
             </BlackButton>
           </div>

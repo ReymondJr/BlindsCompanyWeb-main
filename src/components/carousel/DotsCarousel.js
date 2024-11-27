@@ -32,7 +32,7 @@ const CustomDot = ({ onClick, index, active, setCurrentSlide }) => {
           border: "black solid 1px",
           backgroundColor: "black",
           height: "8px",
-          width: "40px",
+          width: "10px",
           borderRadius: "5px",
           margin: "0 5px",
         }}
@@ -48,7 +48,7 @@ const CustomDot = ({ onClick, index, active, setCurrentSlide }) => {
           border: "gray solid 1px",
           height: "8px",
           width: "8px",
-          margin: "0 5px",
+          margin: "0 4px",
           borderRadius: "50%",
         }}
       />
@@ -56,14 +56,14 @@ const CustomDot = ({ onClick, index, active, setCurrentSlide }) => {
   }
 };
 
-const CustomRightArrow = ({ onClick, ...rest }) => {
+const CustomRightArrow = ({ onClick }) => {
   return (
     <button
       style={{
-        position: "absolute",
-        right: "unset",
-        bottom: "-6.5px",
-        marginLeft: "calc(50% + 115px)",
+        // position: "absolute",
+        // right: "unset",
+        // bottom: "-6.5px",
+        // marginLeft: "calc(50% + 115px)",
         cursor: "pointer",
         fontWeight: "bold",
         zIndex: "1",
@@ -74,14 +74,15 @@ const CustomRightArrow = ({ onClick, ...rest }) => {
     </button>
   );
 };
-const CustomLeftArrow = ({ onClick, ...rest }) => {
+
+const CustomLeftArrow = ({ onClick }) => {
   return (
     <button
       style={{
-        position: "absolute",
-        left: "unset",
-        bottom: "-6.5px",
-        marginLeft: "calc(50% - 125px)",
+        // position: "absolute",
+        // left: "unset",
+        // bottom: "-6.5px",
+        // marginLeft: "calc(50% - 125px)",
         cursor: "pointer",
         fontWeight: "bold",
         zIndex: "1",
@@ -96,30 +97,38 @@ const CustomLeftArrow = ({ onClick, ...rest }) => {
 const BlindsDotsCarousel = ({ children }) => {
   const ref = React.useRef();
   const [currentSlide, setCurrentSlide] = React.useState(0);
+
+  const handleOnChange = (nextSlide) => {
+    setCurrentSlide(nextSlide);
+  };
+
   return (
-    <div
-      className="relative pb-6 overflow-x-hidden carousel-container"
-      style={{ "--slide-percentage": `${currentSlide * 100}%` }}
-      data-slides={children.length}
-    >
+    <div className="relative pb-6 overflow-x-hidden carousel-container">
       <Carousel
         ref={ref}
         renderButtonGroupOutside
-        arrows={true}
+        arrows={false}
         ssr
         responsive={responsive}
         draggable={false}
         infinite
         sliderClass="mb-12"
-        showDots={true}
-        customDot={<CustomDot setCurrentSlide={setCurrentSlide} />}
-        customRightArrow={<CustomRightArrow />}
-        customLeftArrow={<CustomLeftArrow />}
+        showDots={false}
         itemClass="px-2"
         partialVisible={true}
+        afterChange={handleOnChange}
       >
         {children}
       </Carousel>
+      <div className="flex justify-center items-center mt-2">
+        <CustomLeftArrow onClick={() => ref.current.previous()} />
+        <div className="flex">
+          {React.Children.map(children, (child, index) => (
+            <CustomDot key={index} index={index} active={currentSlide === index} onClick={() => ref.current.goToSlide(index)} setCurrentSlide={setCurrentSlide} />
+          ))}
+        </div>
+        <CustomRightArrow onClick={() => ref.current.next()} />
+      </div>
     </div>
   );
 };
