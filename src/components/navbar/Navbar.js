@@ -1,5 +1,5 @@
 import React from "react";
-import { useStaticQuery, graphql, navigate } from "gatsby";
+import { useStaticQuery, graphql,} from "gatsby";
 import { GatsbyImage } from "gatsby-plugin-image";
 import Link from "../util/Link";
 import WhatsappIcon from "../icons/WhatsappIcon";
@@ -10,6 +10,7 @@ import InstagramIcon from "../icons/InstagramIcon";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { IconText } from "../Promo/promoHeader/PromoHeaderStyles";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
+import catego  from '../../data/productCategories/productCategories.json';
 
 const Navbar = ({ removePaddings }) => {
   const data = useStaticQuery(graphql`
@@ -50,6 +51,17 @@ const Navbar = ({ removePaddings }) => {
   const locationLink = data.promoJson.companyLocationLink;
   const navigation = data.globalJson.navigation;
 
+  const navItems = catego.map(category => {
+    return {
+        title: category.title,
+        products: category.products.map(product => ({
+            title: product.title,
+           
+        }))
+    };
+});
+
+
   const socialIcons = [
     {
       icon: <WhatsappIcon />,
@@ -78,19 +90,190 @@ const Navbar = ({ removePaddings }) => {
   };
 
   const currentPath = window.location.pathname.split('/').filter(Boolean);
-  const breadcrumbs = [
-    { name: "Home", url: "/" },
-    ...currentPath.map((path, index) => {
-      const url = `/${currentPath.slice(0, index + 1).join('/')}`;
-      const navItem = navigation.find(nav => nav.url === url);
-      return navItem ? { name: navItem.name, url } : { name: path, url };
-    }),
-  ];
-  const fullBreadcrumbs = breadcrumbs.map((crumb, index) => {
-    const url = `/${currentPath.slice(0, index + 1).join('/')}`;
-    return { name: crumb.name, url };
-  });
 
+  const breadcrumbs = [
+    { name: "Home", url: "/" }, 
+    { name: "Blinds Company", url: "/nosotros" }, 
+    // { name: "Home/Productos", url: "/productos" }, 
+    { name: "Contactanos", url: "/contacto-general" }, 
+  ].filter(crumb => crumb.name === "Home" || currentPath.includes(crumb.url.replace('/', ''))); // Filtra los elementos de breadcrumbs según la ruta actual
+
+
+  const breadcrumbsCategory = [
+    {
+      "name": "Cortinas-Blackout",
+      "url": "/producto-cortinas-blackout"
+    },
+    {
+      "name": "Cortinas-Enrollables",
+      "url": "/producto-cortinas-enrollables"
+    },
+    {
+      "name": "Cortinas-Roller",
+      "url": "/producto-cortinas-roller"
+    },
+    {
+      "name": "Persianas-Blackout",
+      "url": "/producto-persianas-blackout"
+    },
+    {
+      "name": "Persianas-Enrollables",
+      "url": "/producto-persianas-enrollables"
+    },
+    {
+      "name": "Cortinas-Zebra",
+      "url": "/producto-cortinas-zebra"
+    },
+    {
+      "name": "Persianas-Zebra",
+      "url": "/producto-persianas-zebra"
+    },
+    {
+      "name": "Cortinas-Perma",
+      "url": "/producto-cortinas-perma"
+    },
+    {
+      "name": "Enrollables-Exterior",
+      "url": "/producto-cortinas-enrollables-para-exterior"
+    },
+    {
+      "name": "Estor-Enrollable",
+      "url": "/producto-estor-enrollable"
+    },
+    {
+      "name": "Estor-Exterior",
+      "url": "/producto-estor-de-exterior"
+    },
+    {
+      "name": "Malla-Protectora",
+      "url": "/producto-malla-protectora"
+    },
+    {
+      "name": "Mallas-Seguridad",
+      "url": "/producto-mallas-de-seguridad"
+    },
+    {
+      "name": "Mallas-Balcones",
+      "url": "/producto-mallas-para-balcones"
+    },
+    {
+      "name": "Shutters",
+      "url": "/producto-soft-shutters"
+    },
+    {
+      "name": "Cortinas-Verticales",
+      "url": "/producto-cortinas-verticales"
+    },
+    {
+      "name": "Cortinas-Visillo",
+      "url": "/producto-cortinas-de-visillo"
+    },
+    {
+      "name": "Cortinas-Modernas",
+      "url": "/producto-cortinas-modernas"
+    },
+    {
+      "name": "Roman-Shade",
+      "url": "/producto-roman-shade"
+    },
+    {
+      "name": "Toldo-Palillero",
+      "url": "/producto-toldo-palillero"
+    },
+    {
+      "name": "Toldo-Recto",
+      "url": "/producto-toldo-punto-recto"
+    },
+    {
+      "name": "Toldo-Retractil",
+      "url": "/producto-toldo-retractil"
+    },
+    {
+      "name": "Mallas-Mosquitos",
+      "url": "/producto-mallas-para-mosquitos"
+    },
+    {
+      "name": "Screen-Mosquitos",
+      "url": "/producto-screen-para-mosquitos"
+    },
+    {
+      "name": "Escrines-Ventanas",
+      "url": "/producto-escrines-para-ventanas"
+    },
+    {
+      "name": "Mosquiteras-Ventanas",
+      "url": "/producto-mosquiteras-para-ventanas"
+    },
+    {
+      "name": "Palilleria",
+      "url": "/producto-palilleria"
+    },
+    {
+      "name": "Panel-Deslizante",
+      "url": "/producto-panel-deslizante"
+    },
+    {
+      "name": "Japones-Deslizante",
+      "url": "/producto-cortinas-panel-japones-deslizante"
+    },
+    {
+      "name": "Ondas-Pefectas",
+      "url": "/producto-cortinas-ondas-perfectas"
+    },
+    {
+      "name": "Cortinas-Tachonadas",
+      "url": "/producto-cortinas-tachonadas"
+    },
+    {
+      "name": "Cortinas-Hoteleras",
+      "url": "/producto-cortinas-hotelera"
+    },
+    {
+      "name": "Riel-Hotelero",
+      "url": "/producto-cortinas-de-riel-hotelero"
+    },
+    {
+      "name": "Cortinas-Ripplefold",
+      "url": "/producto-cortinas-ripplefold"
+    },
+    {
+      "name": "Cortinas-Venecianas",
+      "url": "/producto-cortinas-venecianas"
+    },
+    {
+      "name": "Store-Santo-Domingo",
+      "url": "/producto-curtain-store-in-santo-domingo"
+    },
+    {
+      "name": "Store-Dominican-Republic",
+      "url": "/producto-curtain-store-in-dominican-republic"
+    },
+    {
+      "name": "Visillo-Modernas",
+      "url": "/producto-cortinas-de-visillo-modernas"
+    }
+  ]
+  
+
+  
+  // Si la ruta actual comienza con "producto", agrega un breadcrumb para "Productos"
+  if (currentPath[0]?.startsWith("producto")) {
+    const productTitle = currentPath.join('/'); // Une la ruta actual para formar el título del producto
+    breadcrumbs.push({ name: "Productos", url: `/${productTitle}` }); // Agrega el breadcrumb de productos
+  }
+
+  // Si la ruta actual comienza con "producto", busca la categoría correspondiente
+  if (currentPath[0]?.startsWith("producto")) {
+    const productName = currentPath[0]; // Obtiene el nombre del producto de la ruta
+    const matchedCategory = breadcrumbsCategory.find(category => category.url === `/${productName}`); // Busca la categoría que coincide con la ruta
+    breadcrumbs.push({ name: matchedCategory ? matchedCategory.name : productName.replace(/-/g, ''), url: '' }); // Agrega el breadcrumb de la categoría encontrada
+  }
+
+  // Crea los breadcrumbs completos con las URLs correspondientes
+  const fullBreadcrumbs = breadcrumbs.map((crumb, index) => {
+    const url = `/${currentPath.slice(0, index + 1).join('/')}`; // Genera la URL para cada breadcrumb
+    return { name: crumb.name, url }; // Devuelve el nombre y la URL del breadcrumb
+  }).filter(crumb => !crumb.name.includes("productos") || currentPath[0]?.startsWith("categoria")); // Filtra los breadcrumbs según la condición
   return (
     <header className={`sticky top-0 bg-white border-b z-50 h-[85px]`}>
       <div className="container relative flex items-center justify-between h-full">
@@ -116,6 +299,7 @@ const Navbar = ({ removePaddings }) => {
             <span class="hamburger-inner"></span>
           </span>
         </button>
+       
         <div
           className={`${
             isNavbarExpanded && "border-b"
@@ -127,7 +311,19 @@ const Navbar = ({ removePaddings }) => {
               : "0px",
           }}
           ref={expandableAreaRef}
-        >
+        > 
+        <nav style={{paddingLeft: "15rem", paddingRight: "0" ,fontSize: "12px"}} >
+            <ul className="flex justify-center space-x-2">
+                {fullBreadcrumbs.map((crumb, index) => (
+                  <li key={index}>
+                    <Link to={crumb.url} className="text-blue-600" partiallyActive={crumb.url !== "/"}>
+                      {crumb.name}
+                    </Link>
+                    {index < fullBreadcrumbs.length - 1 && <span> {'/'} </span>}
+                  </li>
+                ))}
+              </ul>
+            </nav>
           <nav
             aria-label="Navegación principal"
             className="my-6 lg:-translate-x-1/2 lg:absolute lg:left-1/2 -top-1 lg:top-0 lg:my-0 lg:px-0 lg:w-full lg:-translate-y-1/2"
@@ -148,22 +344,7 @@ const Navbar = ({ removePaddings }) => {
                 );
               })}
             </ul>
-            <nav>
-            <ul className="flex justify-center space-x-2">
-                {fullBreadcrumbs.map((crumb, index) => (
-                  <li key={index}>
-                    <Link to={crumb.url} className="text-blue-600">
-                      {crumb.name}
-                    </Link>
-                    {index < fullBreadcrumbs.length - 1 && <span> {'>'} </span>}
-                  </li>
-                ))}
-              </ul>
-            </nav>
-          </nav>
-
-         
-          
+          </nav>          
           <nav
             className={`pb-2 lg:pb-0 pr-0 ${
               removePaddings ? "" : "lg:mr-8 mr-2"
